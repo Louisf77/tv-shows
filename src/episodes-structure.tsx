@@ -19,15 +19,17 @@ interface IEpisode {
 
 function EpisodesStructure(props: IEpisode): JSX.Element {
   return (
-    <div className = 'episodesmain'>
+    <div className="episodesmain">
       <img src={props.image.medium} alt="" />
-        <div className="episodes">
+      <div className="episodes">
         <h2>
-            {props.name} - S{props.season.toString().padStart(2, "0")}
-            {props.number.toString().padStart(2, "0")}
+          {props.name} - S{props.season.toString().padStart(2, "0")}
+          {props.number.toString().padStart(2, "0")}
         </h2>
-        <div className="summary">{props.summary.replace(/<p>/g, "").replace(/<\/p>/g, "")}</div>
+        <div className="summary">
+          {props.summary.replace(/<p>/g, "").replace(/<\/p>/g, "")}
         </div>
+      </div>
     </div>
   );
 }
