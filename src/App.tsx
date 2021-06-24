@@ -1,4 +1,3 @@
-import { greet } from "./utils/greet";
 import episodes from "./episodes.json";
 import Episodes from "./episodes-content";
 
