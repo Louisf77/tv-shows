@@ -25,7 +25,7 @@ function EpisodesStructure(props: IEpisode): JSX.Element {
         {props.number.toString().padStart(2, "0")}
       </h1>
       <img src={props.image.medium} alt="" />
-      <div className="summary">{props.summary}</div>
+      <div className="summary">{props.summary.replace(/<p>/g, "").replace(/<\/p>/g, "")}</div>
     </div>
   );
 }
