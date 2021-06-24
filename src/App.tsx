@@ -7,7 +7,6 @@ console.log(`First episode's name is ${episodes[0].name}`);
 
 function App(): JSX.Element {
   return <> 
-          <h1>{greet("World")}</h1>;
           <Episodes />
         </>
 }
