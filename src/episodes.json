@@ -1,1607 +1,2949 @@
 [
   {
-    "id": 4952,
-    "url": "https://www.tvmaze.com/episodes/4952/game-of-thrones-1x01-winter-is-coming",
-    "name": "Winter is Coming",
+    "id": 12493,
+    "url": "https://www.tvmaze.com/episodes/12493/suits-1x01-pilot",
+    "name": "Pilot",
     "season": 1,
     "number": 1,
     "type": "regular",
-    "airdate": "2011-04-17",
-    "airtime": "21:00",
-    "airstamp": "2011-04-18T01:00:00+00:00",
+    "airdate": "2011-06-23",
+    "airtime": "22:00",
+    "airstamp": "2011-06-24T02:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2668.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2668.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/176097.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/176097.jpg"
     },
-    "summary": "<p>Lord Eddard Stark, ruler of the North, is summoned to court by his old friend, King Robert Baratheon, to serve as the King's Hand. Eddard reluctantly agrees after learning of a possible threat to the King's life. Eddard's bastard son Jon Snow must make a painful decision about his own future, while in the distant east Viserys Targaryen plots to reclaim his father's throne, usurped by Robert, by selling his sister in marriage.</p>",
+    "summary": "<p>In the premiere of this legal drama, successful lawyer Harvey Specter (Gabriel Macht) hires brilliant college dropout Mike Ross (Patrick J. Adams) as a new associate at a top law firm despite the fact that Mike doesn't have a degree. In order to work together, both parties have to keep up the ruse to convince their coworkers that Mike is a real lawyer.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4952"
+        "href": "https://api.tvmaze.com/episodes/12493"
       }
     }
   },
   {
-    "id": 4953,
-    "url": "https://www.tvmaze.com/episodes/4953/game-of-thrones-1x02-the-kingsroad",
-    "name": "The Kingsroad",
+    "id": 12495,
+    "url": "https://www.tvmaze.com/episodes/12495/suits-1x02-errors-and-omissions",
+    "name": "Errors and Omissions",
     "season": 1,
     "number": 2,
     "type": "regular",
-    "airdate": "2011-04-24",
-    "airtime": "21:00",
-    "airstamp": "2011-04-25T01:00:00+00:00",
+    "airdate": "2011-06-30",
+    "airtime": "22:00",
+    "airstamp": "2011-07-01T02:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2669.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2669.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/176098.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/176098.jpg"
     },
-    "summary": "<p>An incident on the Kingsroad threatens Eddard and Robert's friendship. Jon and Tyrion travel to the Wall, where they discover that the reality of the Night's Watch may not match the heroic image of it.</p>",
+    "summary": "<p>Mike has an ethical dilemma when Louis forces him to make a decision that could hurt his relationship with Harvey. Elsewhere, Harvey's past comes back to haunt him during a case.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4953"
+        "href": "https://api.tvmaze.com/episodes/12495"
       }
     }
   },
   {
-    "id": 4954,
-    "url": "https://www.tvmaze.com/episodes/4954/game-of-thrones-1x03-lord-snow",
-    "name": "Lord Snow",
+    "id": 12496,
+    "url": "https://www.tvmaze.com/episodes/12496/suits-1x03-inside-track",
+    "name": "Inside Track",
     "season": 1,
     "number": 3,
     "type": "regular",
-    "airdate": "2011-05-01",
-    "airtime": "21:00",
-    "airstamp": "2011-05-02T01:00:00+00:00",
+    "airdate": "2011-07-07",
+    "airtime": "22:00",
+    "airstamp": "2011-07-08T02:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2671.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2671.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/176099.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/176099.jpg"
     },
-    "summary": "<p>Jon Snow attempts to find his place amongst the Night's Watch. Eddard and his daughters arrive at King's Landing.</p>",
+    "summary": "<p>Harvey goes rogue in order to fix a crisis with a client despite Jessica's desire to reign him in. Elsewhere, Mike turns to Rachel for guidance when he learns he'll be hosting a dinner for rookies, an important tradition at the firm.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4954"
+        "href": "https://api.tvmaze.com/episodes/12496"
       }
     }
   },
   {
-    "id": 4955,
-    "url": "https://www.tvmaze.com/episodes/4955/game-of-thrones-1x04-cripples-bastards-and-broken-things",
-    "name": "Cripples, Bastards, and Broken Things",
+    "id": 12497,
+    "url": "https://www.tvmaze.com/episodes/12497/suits-1x04-dirty-little-secrets",
+    "name": "Dirty Little Secrets",
     "season": 1,
     "number": 4,
     "type": "regular",
-    "airdate": "2011-05-08",
-    "airtime": "21:00",
-    "airstamp": "2011-05-09T01:00:00+00:00",
+    "airdate": "2011-07-14",
+    "airtime": "22:00",
+    "airstamp": "2011-07-15T02:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2673.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2673.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/176100.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/176100.jpg"
     },
-    "summary": "<p>Tyrion stops at Winterfell on his way home and gets a frosty reception from Robb Stark. Eddard's investigation into the death of his predecessor gets underway.</p>",
+    "summary": "<p>Harvey defends a figure from Jessica's past, making it difficult for Jessica to detach herself from the case. Elsewhere, Mike is eager to take on a pro bono case but soon learns it won't be an easy win.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4955"
+        "href": "https://api.tvmaze.com/episodes/12497"
       }
     }
   },
   {
-    "id": 4956,
-    "url": "https://www.tvmaze.com/episodes/4956/game-of-thrones-1x05-the-wolf-and-the-lion",
-    "name": "The Wolf and the Lion",
+    "id": 12498,
+    "url": "https://www.tvmaze.com/episodes/12498/suits-1x05-bail-out",
+    "name": "Bail Out",
     "season": 1,
     "number": 5,
     "type": "regular",
-    "airdate": "2011-05-15",
-    "airtime": "21:00",
-    "airstamp": "2011-05-16T01:00:00+00:00",
+    "airdate": "2011-07-21",
+    "airtime": "22:00",
+    "airstamp": "2011-07-22T02:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2674.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2674.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/176101.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/176101.jpg"
     },
-    "summary": "<p>Catelyn's actions on the road have repercussions for Eddard. Tyrion enjoys the dubious hospitality of the Eyrie.</p>",
+    "summary": "<p>An old friend surfaces to ask Mike for help. Elsewhere, Harvey has a chance to close a lucrative deal or help his driver defend himself from a lawsuit.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4956"
+        "href": "https://api.tvmaze.com/episodes/12498"
       }
     }
   },
   {
-    "id": 4957,
-    "url": "https://www.tvmaze.com/episodes/4957/game-of-thrones-1x06-a-golden-crown",
-    "name": "A Golden Crown",
+    "id": 12499,
+    "url": "https://www.tvmaze.com/episodes/12499/suits-1x06-tricks-of-the-trade",
+    "name": "Tricks of the Trade",
     "season": 1,
     "number": 6,
     "type": "regular",
-    "airdate": "2011-05-22",
-    "airtime": "21:00",
-    "airstamp": "2011-05-23T01:00:00+00:00",
+    "airdate": "2011-07-28",
+    "airtime": "22:00",
+    "airstamp": "2011-07-29T02:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2676.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2676.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/176102.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/176102.jpg"
     },
-    "summary": "<p>Viserys is increasingly frustrated by the lack of progress towards gaining his crown.</p>",
+    "summary": "<p>The guys defend a woman falsely accused of insider trading. Elsewhere, Mike helps Rachel study for the LSAT and realises she's close to discovering his secret.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4957"
+        "href": "https://api.tvmaze.com/episodes/12499"
       }
     }
   },
   {
-    "id": 4958,
-    "url": "https://www.tvmaze.com/episodes/4958/game-of-thrones-1x07-you-win-or-you-die",
-    "name": "You Win or You Die",
+    "id": 12500,
+    "url": "https://www.tvmaze.com/episodes/12500/suits-1x07-play-the-man",
+    "name": "Play the Man",
     "season": 1,
     "number": 7,
     "type": "regular",
-    "airdate": "2011-05-29",
-    "airtime": "21:00",
-    "airstamp": "2011-05-30T01:00:00+00:00",
+    "airdate": "2011-08-04",
+    "airtime": "22:00",
+    "airstamp": "2011-08-05T02:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2677.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2677.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/176103.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/176103.jpg"
     },
-    "summary": "<p>Eddard's investigations in King's Landing reach a climax and a dark secret is revealed.</p>",
+    "summary": "<p>Mike takes on Louis' protégé during a mock trial, but his conflict with Rachel could hurt his chances of winning. Elsewhere, Harvey works on a merger between two hotel chains, but his past with the opposing counsel complicates matters.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4958"
+        "href": "https://api.tvmaze.com/episodes/12500"
       }
     }
   },
   {
-    "id": 4959,
-    "url": "https://www.tvmaze.com/episodes/4959/game-of-thrones-1x08-the-pointy-end",
-    "name": "The Pointy End",
+    "id": 12501,
+    "url": "https://www.tvmaze.com/episodes/12501/suits-1x08-identity-crisis",
+    "name": "Identity Crisis",
     "season": 1,
     "number": 8,
     "type": "regular",
-    "airdate": "2011-06-05",
-    "airtime": "21:00",
-    "airstamp": "2011-06-06T01:00:00+00:00",
+    "airdate": "2011-08-11",
+    "airtime": "22:00",
+    "airstamp": "2011-08-12T02:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2678.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2678.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/176104.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/176104.jpg"
     },
-    "summary": "<p>Tyrion joins his father's army with unexpected allies. Events in King's Landing take a turn for the worse as Arya's lessons are put to the test.</p>",
+    "summary": "<p>Harvey and Louis are forced to work together to go after an investment firm that ripped off a nonprofit. But Louis, anxious to make a good impression, inadvertently hurts the case. Elsewhere, Mike tries to contain a modern-day Robin Hood whose actions are damaging a client's business.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4959"
+        "href": "https://api.tvmaze.com/episodes/12501"
       }
     }
   },
   {
-    "id": 4960,
-    "url": "https://www.tvmaze.com/episodes/4960/game-of-thrones-1x09-baelor",
-    "name": "Baelor",
+    "id": 12502,
+    "url": "https://www.tvmaze.com/episodes/12502/suits-1x09-undefeated",
+    "name": "Undefeated",
     "season": 1,
     "number": 9,
     "type": "regular",
-    "airdate": "2011-06-12",
-    "airtime": "21:00",
-    "airstamp": "2011-06-13T01:00:00+00:00",
+    "airdate": "2011-08-18",
+    "airtime": "22:00",
+    "airstamp": "2011-08-19T02:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2679.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2679.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/176105.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/176105.jpg"
     },
-    "summary": "<p>Catelyn must negotiate with the irascible Lord Walder Frey.</p>",
+    "summary": "<p>Harvey takes on an undefeated lawyer from Boston during a class-action lawsuit.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4960"
+        "href": "https://api.tvmaze.com/episodes/12502"
       }
     }
   },
   {
-    "id": 4961,
-    "url": "https://www.tvmaze.com/episodes/4961/game-of-thrones-1x10-fire-and-blood",
-    "name": "Fire and Blood",
+    "id": 12503,
+    "url": "https://www.tvmaze.com/episodes/12503/suits-1x10-the-shelf-life",
+    "name": "The Shelf Life",
     "season": 1,
     "number": 10,
     "type": "regular",
-    "airdate": "2011-06-19",
-    "airtime": "21:00",
-    "airstamp": "2011-06-20T01:00:00+00:00",
+    "airdate": "2011-08-25",
+    "airtime": "22:00",
+    "airstamp": "2011-08-26T02:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2681.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2681.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/176106.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/176106.jpg"
     },
-    "summary": "<p>Daenerys must realize her destiny. Jaime finds himself in an unfamiliar predicament.</p>",
+    "summary": "<p>Mike questions the firing of an executive, whom Harvey dismissed at the request of a client.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4961"
+        "href": "https://api.tvmaze.com/episodes/12503"
       }
     }
   },
   {
-    "id": 4962,
-    "url": "https://www.tvmaze.com/episodes/4962/game-of-thrones-2x01-the-north-remembers",
-    "name": "The North Remembers",
+    "id": 12504,
+    "url": "https://www.tvmaze.com/episodes/12504/suits-1x11-rules-of-the-game",
+    "name": "Rules of the Game",
+    "season": 1,
+    "number": 11,
+    "type": "regular",
+    "airdate": "2011-09-01",
+    "airtime": "22:00",
+    "airstamp": "2011-09-02T02:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/176107.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/176107.jpg"
+    },
+    "summary": "<p>Harvey's former mentor (Gary Cole) turns to his protégé when his office comes under investigation. Elsewhere, Mike and Louis try to settle a mogul's estate in the midst of family clashes; and Jenny worries that Mike is hiding something.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/12504"
+      }
+    }
+  },
+  {
+    "id": 12505,
+    "url": "https://www.tvmaze.com/episodes/12505/suits-1x12-dog-fight",
+    "name": "Dog Fight",
+    "season": 1,
+    "number": 12,
+    "type": "regular",
+    "airdate": "2011-09-08",
+    "airtime": "22:00",
+    "airstamp": "2011-09-09T02:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/176108.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/176108.jpg"
+    },
+    "summary": "<p>In the first-series finale, Harvey tries to free an innocent man but hits a wall when he goes to the district attorney (Chi McBride), who seems more focused on preserving the system than seeking justice. Elsewhere, Trevor causes problems for Mike when he shows up on Mike's doorstep.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/12505"
+      }
+    }
+  },
+  {
+    "id": 12506,
+    "url": "https://www.tvmaze.com/episodes/12506/suits-2x01-she-knows",
+    "name": "She Knows",
     "season": 2,
     "number": 1,
     "type": "regular",
-    "airdate": "2012-04-01",
-    "airtime": "21:00",
-    "airstamp": "2012-04-02T01:00:00+00:00",
+    "airdate": "2012-06-14",
+    "airtime": "22:00",
+    "airstamp": "2012-06-15T02:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/3174.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3174.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/176109.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/176109.jpg"
     },
-    "summary": "<p>War grips the continent of Westeros. As Tyrion Lannister tries to take his strong-willed nephew in hand in King's Landing, Stannis Baratheon launches his own campaign to take the Iron Throne with the help of a mysterious priestess. In the east, Daenerys must lead her retinue through a desolate wasteland whilst beyond the Wall the Night's Watch seeks the aid of a wildling.</p>",
+    "summary": "<p>In the Series 2 opener, Mike is excited to close a big case for the firm but doesn't realise Trevor confronted Jessica. Meanwhile, Jessica's former partner resurfaces, prompting Harvey to reconsider what he's willing to do to protect Mike's secret.<br></p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4962"
+        "href": "https://api.tvmaze.com/episodes/12506"
       }
     }
   },
   {
-    "id": 4963,
-    "url": "https://www.tvmaze.com/episodes/4963/game-of-thrones-2x02-the-night-lands",
-    "name": "The Night Lands",
+    "id": 12507,
+    "url": "https://www.tvmaze.com/episodes/12507/suits-2x02-the-choice",
+    "name": "The Choice",
     "season": 2,
     "number": 2,
     "type": "regular",
-    "airdate": "2012-04-08",
-    "airtime": "21:00",
-    "airstamp": "2012-04-09T01:00:00+00:00",
+    "airdate": "2012-06-21",
+    "airtime": "22:00",
+    "airstamp": "2012-06-22T02:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/3175.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3175.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/176110.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/176110.jpg"
     },
-    "summary": "<p>Stannis uses Ser Davos to seek out new allies for his war with the Lannisters. On the road north, Arya confides in Gendry. Robb Stark sends Theon Greyjoy to win an alliance with his father and the fierce warriors of the Iron Islands. Cersei and Tyrion clash on how to rule in King's Landing.</p>",
+    "summary": "<p>Jessica tries to drum up support in the firm and asks Harvey to help her with the task, but his ambition may produce more ill will than good. Elsewhere, Mike approaches Rachel about her message.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4963"
+        "href": "https://api.tvmaze.com/episodes/12507"
       }
     }
   },
   {
-    "id": 4964,
-    "url": "https://www.tvmaze.com/episodes/4964/game-of-thrones-2x03-what-is-dead-may-never-die",
-    "name": "What is Dead May Never Die",
+    "id": 12508,
+    "url": "https://www.tvmaze.com/episodes/12508/suits-2x03-meet-the-new-boss",
+    "name": "Meet the New Boss",
     "season": 2,
     "number": 3,
     "type": "regular",
-    "airdate": "2012-04-15",
-    "airtime": "21:00",
-    "airstamp": "2012-04-16T01:00:00+00:00",
+    "airdate": "2012-06-28",
+    "airtime": "22:00",
+    "airstamp": "2012-06-29T02:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/3176.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3176.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/176111.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/176111.jpg"
     },
-    "summary": "<p>Catelyn Stark treats with King Renly in the hope of winning an alliance. Tyrion undertakes a complex plan in King's Landing to expose an enemy. At Winterfell, Bran's dreams continue to trouble him.</p>",
+    "summary": "<p>Harvey and Daniel clash over a case, leaving Mike caught in the middle. Meanwhile, Mike must handle problems with the women in his life; and Louis meets a worthy opponent when trying to quell complaints about the way the firm treats its associates.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4964"
+        "href": "https://api.tvmaze.com/episodes/12508"
       }
     }
   },
   {
-    "id": 4965,
-    "url": "https://www.tvmaze.com/episodes/4965/game-of-thrones-2x04-garden-of-bones",
-    "name": "Garden of Bones",
+    "id": 12509,
+    "url": "https://www.tvmaze.com/episodes/12509/suits-2x04-discovery",
+    "name": "Discovery",
     "season": 2,
     "number": 4,
     "type": "regular",
-    "airdate": "2012-04-22",
-    "airtime": "21:00",
-    "airstamp": "2012-04-23T01:00:00+00:00",
+    "airdate": "2012-07-12",
+    "airtime": "22:00",
+    "airstamp": "2012-07-13T02:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/3177.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3177.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/176112.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/176112.jpg"
     },
-    "summary": "<p>Tyrion attempts to restrain Joffrey's cruelty. Catelyn attempts to broker a peace between Stannis and Renly. Daenerys and her followers arrive at the great city of Qarth and hope to find refuge there. Arya and Gendry arrive at Harrenhal, a great castle now under Lannister occupation.</p>",
+    "summary": "<p>Travis returns to town and takes aim at Harvey, causing trouble that Harvey and Jessica must hide from Daniel. Elsewhere, Louis and Mike become closer as friends, but Louis' paranoia threatens to ruin the new bond.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4965"
+        "href": "https://api.tvmaze.com/episodes/12509"
       }
     }
   },
   {
-    "id": 4966,
-    "url": "https://www.tvmaze.com/episodes/4966/game-of-thrones-2x05-the-ghost-of-harrenhal",
-    "name": "The Ghost of Harrenhal",
+    "id": 12510,
+    "url": "https://www.tvmaze.com/episodes/12510/suits-2x05-break-point",
+    "name": "Break Point",
     "season": 2,
     "number": 5,
     "type": "regular",
-    "airdate": "2012-04-29",
-    "airtime": "21:00",
-    "airstamp": "2012-04-30T01:00:00+00:00",
+    "airdate": "2012-07-19",
+    "airtime": "22:00",
+    "airstamp": "2012-07-20T02:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/3178.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3178.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/176113.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/176113.jpg"
     },
-    "summary": "<p>Confusion rages in the Stormlands in the wake of a devastating reversal. Catelyn must flee with a new ally, whilst Littlefinger sees an opportunity in the chaos. Theon seeks to prove himself to his father in battle. Arya receives a promise from the enigmatic Jaqen H'ghar. The Night's Watch arrives at the Fist of the First Men. Daenerys Targaryen receives a marriage proposal.</p>",
+    "summary": "<p>Jessica takes the lead on a case that could have serious consequences for the firm, and Harvey has a hard time taking a backseat during the proceedings. Elsewhere, Mike works on a dispute between a tennis phenom and his trainer, who's also his father.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4966"
+        "href": "https://api.tvmaze.com/episodes/12510"
       }
     }
   },
   {
-    "id": 4967,
-    "url": "https://www.tvmaze.com/episodes/4967/game-of-thrones-2x06-the-old-gods-and-the-new",
-    "name": "The Old Gods and the New",
+    "id": 12511,
+    "url": "https://www.tvmaze.com/episodes/12511/suits-2x06-all-in",
+    "name": "All In",
     "season": 2,
     "number": 6,
     "type": "regular",
-    "airdate": "2012-05-06",
-    "airtime": "21:00",
-    "airstamp": "2012-05-07T01:00:00+00:00",
+    "airdate": "2012-07-26",
+    "airtime": "22:00",
+    "airstamp": "2012-07-27T02:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/3180.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3180.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/176114.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/176114.jpg"
     },
-    "summary": "<p>Arya has a surprise visitor; Dany vows to take what is hers; Joffrey meets his subjects; Qhorin gives Jon a chance to prove himself.</p>",
+    "summary": "<p>Harvey and Mike take on an unorthodox case in light of Harvey's history with the client. Elsewhere, Louis and Rachel join forces to preserve a beloved institution, and Jessica encounters a problem while defending the firm.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4967"
+        "href": "https://api.tvmaze.com/episodes/12511"
       }
     }
   },
   {
-    "id": 4968,
-    "url": "https://www.tvmaze.com/episodes/4968/game-of-thrones-2x07-a-man-without-honor",
-    "name": "A Man Without Honor",
+    "id": 12512,
+    "url": "https://www.tvmaze.com/episodes/12512/suits-2x07-sucker-punch",
+    "name": "Sucker Punch",
     "season": 2,
     "number": 7,
     "type": "regular",
-    "airdate": "2012-05-13",
-    "airtime": "21:00",
-    "airstamp": "2012-05-14T01:00:00+00:00",
+    "airdate": "2012-08-02",
+    "airtime": "22:00",
+    "airstamp": "2012-08-03T02:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/3192.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3192.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/176115.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/176115.jpg"
     },
-    "summary": "<p>Jaime meets a relative; Theon hunts; Dany receives an invitation.</p>",
+    "summary": "<p>Harvey turns to an old colleague for help defending the firm against the lawsuit despite the pair's tumultuous past.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4968"
+        "href": "https://api.tvmaze.com/episodes/12512"
       }
     }
   },
   {
-    "id": 4969,
-    "url": "https://www.tvmaze.com/episodes/4969/game-of-thrones-2x08-the-prince-of-winterfell",
-    "name": "The Prince of Winterfell",
+    "id": 12513,
+    "url": "https://www.tvmaze.com/episodes/12513/suits-2x08-rewind",
+    "name": "Rewind",
     "season": 2,
     "number": 8,
     "type": "regular",
-    "airdate": "2012-05-20",
-    "airtime": "21:00",
-    "airstamp": "2012-05-21T01:00:00+00:00",
+    "airdate": "2012-08-09",
+    "airtime": "22:00",
+    "airstamp": "2012-08-10T02:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/3194.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3194.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/176116.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/176116.jpg"
     },
-    "summary": "<p>Theon holds the fort; Arya calls in her debt with Jaqen; Robb is betrayed; Stannis and Davos approach their destination.</p>",
+    "summary": "<p>Mike and Harvey look into the past to discover how their decisions have influenced the present.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4969"
+        "href": "https://api.tvmaze.com/episodes/12513"
       }
     }
   },
   {
-    "id": 4970,
-    "url": "https://www.tvmaze.com/episodes/4970/game-of-thrones-2x09-blackwater",
-    "name": "Blackwater",
+    "id": 12514,
+    "url": "https://www.tvmaze.com/episodes/12514/suits-2x09-asterisk",
+    "name": "Asterisk",
     "season": 2,
     "number": 9,
     "type": "regular",
-    "airdate": "2012-05-27",
-    "airtime": "21:00",
-    "airstamp": "2012-05-28T01:00:00+00:00",
+    "airdate": "2012-08-16",
+    "airtime": "22:00",
+    "airstamp": "2012-08-17T02:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/3196.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3196.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/176117.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/176117.jpg"
     },
-    "summary": "<p>A massive battle rages for control of King's Landing and the Iron Throne.</p>",
+    "summary": "<p>Harvey tries to sway an important figure whose vote will determine the firm's future.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4970"
+        "href": "https://api.tvmaze.com/episodes/12514"
       }
     }
   },
   {
-    "id": 4971,
-    "url": "https://www.tvmaze.com/episodes/4971/game-of-thrones-2x10-valar-morghulis",
-    "name": "Valar Morghulis",
+    "id": 12515,
+    "url": "https://www.tvmaze.com/episodes/12515/suits-2x10-high-noon",
+    "name": "High Noon",
     "season": 2,
     "number": 10,
     "type": "regular",
-    "airdate": "2012-06-03",
-    "airtime": "21:00",
-    "airstamp": "2012-06-04T01:00:00+00:00",
+    "airdate": "2012-08-23",
+    "airtime": "22:00",
+    "airstamp": "2012-08-24T02:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/3197.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3197.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/176118.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/176118.jpg"
     },
-    "summary": "<p>Tyrion awakens to a changed situation. King Joffrey doles out rewards to his subjects. As Theon stirs his men to action, Luwin offers some final advice. Brienne silences Jaime; Arya receives a gift from Jaqen; Dany goes to a strange place; Jon proves himself to Qhorin.</p>",
+    "summary": "<p>Personal issues cause Mike to drop off the grid when Harvey needs him during the fight for the firm.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4971"
+        "href": "https://api.tvmaze.com/episodes/12515"
       }
     }
   },
   {
-    "id": 4972,
-    "url": "https://www.tvmaze.com/episodes/4972/game-of-thrones-3x01-valar-dohaeris",
-    "name": "Valar Dohaeris",
+    "id": 12516,
+    "url": "https://www.tvmaze.com/episodes/12516/suits-2x11-blind-sided",
+    "name": "Blind-Sided",
+    "season": 2,
+    "number": 11,
+    "type": "regular",
+    "airdate": "2013-01-17",
+    "airtime": "22:00",
+    "airstamp": "2013-01-18T03:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/176119.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/176119.jpg"
+    },
+    "summary": "<p>A criminal case resonates with Mike, making it difficult for him to separate his feelings from the case.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/12516"
+      }
+    }
+  },
+  {
+    "id": 12517,
+    "url": "https://www.tvmaze.com/episodes/12517/suits-2x12-blood-in-the-water",
+    "name": "Blood in the Water",
+    "season": 2,
+    "number": 12,
+    "type": "regular",
+    "airdate": "2013-01-24",
+    "airtime": "22:00",
+    "airstamp": "2013-01-25T03:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/176120.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/176120.jpg"
+    },
+    "summary": "<p>The firm tries to recover from the battle with Daniel, but Harvey must fend off another attack from a rival who seems to have a personal vendetta. Elsewhere, Mike and Louis face consequences for previous actions.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/12517"
+      }
+    }
+  },
+  {
+    "id": 12518,
+    "url": "https://www.tvmaze.com/episodes/12518/suits-2x13-zane-vs-zane",
+    "name": "Zane vs. Zane",
+    "season": 2,
+    "number": 13,
+    "type": "regular",
+    "airdate": "2013-01-31",
+    "airtime": "22:00",
+    "airstamp": "2013-02-01T03:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/176121.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/176121.jpg"
+    },
+    "summary": "<p>Harvey faces off with Rachel's father on a gender-discrimination case, forcing Rachel to deal with her strained relationship with her dad.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/12518"
+      }
+    }
+  },
+  {
+    "id": 12519,
+    "url": "https://www.tvmaze.com/episodes/12519/suits-2x14-hes-back",
+    "name": "He's Back",
+    "season": 2,
+    "number": 14,
+    "type": "regular",
+    "airdate": "2013-02-07",
+    "airtime": "22:00",
+    "airstamp": "2013-02-08T03:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/176122.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/176122.jpg"
+    },
+    "summary": "<p>Daniel returns with a lawsuit against Jessica.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/12519"
+      }
+    }
+  },
+  {
+    "id": 12520,
+    "url": "https://www.tvmaze.com/episodes/12520/suits-2x15-normandy",
+    "name": "Normandy",
+    "season": 2,
+    "number": 15,
+    "type": "regular",
+    "airdate": "2013-02-14",
+    "airtime": "22:00",
+    "airstamp": "2013-02-15T03:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/176123.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/176123.jpg"
+    },
+    "summary": "<p>Dana resurfaces and causes problems for Harvey and Jessica in their battle against Hardman.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/12520"
+      }
+    }
+  },
+  {
+    "id": 12521,
+    "url": "https://www.tvmaze.com/episodes/12521/suits-2x16-war",
+    "name": "War",
+    "season": 2,
+    "number": 16,
+    "type": "regular",
+    "airdate": "2013-02-21",
+    "airtime": "22:00",
+    "airstamp": "2013-02-22T03:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/176124.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/176124.jpg"
+    },
+    "summary": "<p>In the Series 2 finale, Harvey and Jessica clash over their vision for the direction of the firm when faced with a lucrative offer from a British firm.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/12521"
+      }
+    }
+  },
+  {
+    "id": 12522,
+    "url": "https://www.tvmaze.com/episodes/12522/suits-3x01-the-arrangement",
+    "name": "The Arrangement",
     "season": 3,
     "number": 1,
     "type": "regular",
-    "airdate": "2013-03-31",
-    "airtime": "21:00",
-    "airstamp": "2013-04-01T01:00:00+00:00",
+    "airdate": "2013-07-16",
+    "airtime": "22:00",
+    "airstamp": "2013-07-17T02:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2628.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2628.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/175970.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/175970.jpg"
     },
-    "summary": "<p></p><p>Jon is brought before Mance Rayder, the King Beyond the Wall, while the Night's Watch survivors retreat south. In King's Landing, Tyrion asks for his reward. Littlefinger offers Sansa a way out. Cersei hosts a dinner for the royal family. Daenerys sails into Slaver's Bay.</p>",
+    "summary": "<p>In the Series 3 premiere, new partner Darby assigns Harvey a high-stakes case. Elsewhere, Mike tries to make things right with Harvey and deal with the fallout from his revelation to Rachel.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4972"
+        "href": "https://api.tvmaze.com/episodes/12522"
       }
     }
   },
   {
-    "id": 4973,
-    "url": "https://www.tvmaze.com/episodes/4973/game-of-thrones-3x02-dark-wings-dark-words",
-    "name": "Dark Wings, Dark Words",
+    "id": 12523,
+    "url": "https://www.tvmaze.com/episodes/12523/suits-3x02-i-want-you-to-want-me",
+    "name": "I Want You to Want Me",
     "season": 3,
     "number": 2,
     "type": "regular",
-    "airdate": "2013-04-07",
-    "airtime": "21:00",
-    "airstamp": "2013-04-08T01:00:00+00:00",
+    "airdate": "2013-07-23",
+    "airtime": "22:00",
+    "airstamp": "2013-07-24T02:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2618.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2618.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/175971.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/175971.jpg"
     },
-    "summary": "<p>Sansa says too much. Shae asks Tyrion for a favor. Jaime finds a way to pass the time. Arya runs into the Brotherhood Without Banners.</p>",
+    "summary": "<p>Louis has an offer for Mike that could affect his future at the firm; Harvey and Jessica take on an old foe, who throws a wrench into their defense of Ava Hessington.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4973"
+        "href": "https://api.tvmaze.com/episodes/12523"
       }
     }
   },
   {
-    "id": 4974,
-    "url": "https://www.tvmaze.com/episodes/4974/game-of-thrones-3x03-walk-of-punishment",
-    "name": "Walk of Punishment",
+    "id": 12524,
+    "url": "https://www.tvmaze.com/episodes/12524/suits-3x03-unfinished-business",
+    "name": "Unfinished Business",
     "season": 3,
     "number": 3,
     "type": "regular",
-    "airdate": "2013-04-14",
-    "airtime": "21:00",
-    "airstamp": "2013-04-15T01:00:00+00:00",
+    "airdate": "2013-07-30",
+    "airtime": "22:00",
+    "airstamp": "2013-07-31T02:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2616.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2616.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/175972.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/175972.jpg"
     },
-    "summary": "<p>Tyrion shoulders new responsibilities. Jon is taken to the Fist of the First Men. Daenerys meets with the slavers. Jaime strikes a deal with his captors.</p>",
+    "summary": "<p>Harvey's client is arrested for murder; Katrina attempts to win over Louis, who's still stewing over Mike's rejection; and a British version of Harvey makes waves at the firm.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4974"
+        "href": "https://api.tvmaze.com/episodes/12524"
       }
     }
   },
   {
-    "id": 4975,
-    "url": "https://www.tvmaze.com/episodes/4975/game-of-thrones-3x04-and-now-his-watch-is-ended",
-    "name": "And Now His Watch is Ended",
+    "id": 12525,
+    "url": "https://www.tvmaze.com/episodes/12525/suits-3x04-conflict-of-interest",
+    "name": "Conflict of Interest",
     "season": 3,
     "number": 4,
     "type": "regular",
-    "airdate": "2013-04-21",
-    "airtime": "21:00",
-    "airstamp": "2013-04-22T01:00:00+00:00",
+    "airdate": "2013-08-06",
+    "airtime": "22:00",
+    "airstamp": "2013-08-07T02:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2615.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2615.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/175973.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/175973.jpg"
     },
-    "summary": "<p>The Night's Watch takes stock. Varys meets his better. Arya is taken to the commander of the Brotherhood. Daenerys exchanges a chain for a Whip.</p>",
+    "summary": "<p>Harvey and Louis are at odds when Harvey's defense of Ava conflicts with Louis' assignment to prevent a hostile takeover of Hessington Oil.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4975"
+        "href": "https://api.tvmaze.com/episodes/12525"
       }
     }
   },
   {
-    "id": 4976,
-    "url": "https://www.tvmaze.com/episodes/4976/game-of-thrones-3x05-kissed-by-fire",
-    "name": "Kissed by Fire",
+    "id": 12526,
+    "url": "https://www.tvmaze.com/episodes/12526/suits-3x05-shadow-of-a-doubt",
+    "name": "Shadow of a Doubt",
     "season": 3,
     "number": 5,
     "type": "regular",
-    "airdate": "2013-04-28",
-    "airtime": "21:00",
-    "airstamp": "2013-04-29T01:00:00+00:00",
+    "airdate": "2013-08-13",
+    "airtime": "22:00",
+    "airstamp": "2013-08-14T02:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2614.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2614.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/175974.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/175974.jpg"
     },
-    "summary": "<p>The Hound is judged by the gods; Jaime is judged by men. Jon proves himself; Robb is betrayed. Tyrion learns the cost of weddings.</p>",
+    "summary": "<p>Harvey and Stephen join forces for Ava's defense; Mike asks Rachel for help with a case, but complications arise when her parents end up coming close to learning his secret.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4976"
+        "href": "https://api.tvmaze.com/episodes/12526"
       }
     }
   },
   {
-    "id": 4977,
-    "url": "https://www.tvmaze.com/episodes/4977/game-of-thrones-3x06-the-climb",
-    "name": "The Climb",
+    "id": 12527,
+    "url": "https://www.tvmaze.com/episodes/12527/suits-3x06-the-other-time",
+    "name": "The Other Time",
     "season": 3,
     "number": 6,
     "type": "regular",
-    "airdate": "2013-05-05",
-    "airtime": "21:00",
-    "airstamp": "2013-05-06T01:00:00+00:00",
+    "airdate": "2013-08-20",
+    "airtime": "22:00",
+    "airstamp": "2013-08-21T02:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2612.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2612.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/175975.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/175975.jpg"
     },
-    "summary": "<p>Tywin plans strategic unions for the Lannisters. Melisandre visits the Riverlands. Robb weighs a compromise to repair his alliance with House Frey. Roose Bolton decides what to do with Jaime Lannister. Jon, Ygritte and the Wildlings face a daunting climb.</p>",
+    "summary": "<p>Cameron's dirty tactics on Ava's case lead Harvey to recall why he left the D.A.'s office. Elsewhere, Mike looks back at what prevented him from earning a degree while Rachel visits law schools.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4977"
+        "href": "https://api.tvmaze.com/episodes/12527"
       }
     }
   },
   {
-    "id": 4978,
-    "url": "https://www.tvmaze.com/episodes/4978/game-of-thrones-3x07-the-bear-and-the-maiden-fair",
-    "name": "The Bear and the Maiden Fair",
+    "id": 12528,
+    "url": "https://www.tvmaze.com/episodes/12528/suits-3x07-shes-mine",
+    "name": "She's Mine",
     "season": 3,
     "number": 7,
     "type": "regular",
-    "airdate": "2013-05-12",
-    "airtime": "21:00",
-    "airstamp": "2013-05-13T01:00:00+00:00",
+    "airdate": "2013-08-27",
+    "airtime": "22:00",
+    "airstamp": "2013-08-28T02:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2611.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2611.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/175976.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/175976.jpg"
     },
-    "summary": "<p>Daenerys exchanges gifts with a slave lord outside Yunkai. As Sansa frets about her prospects, Shae chafes at Tyrion's new situation. Tywin counsels the king, and Melisandre reveals a secret to Gendry. Brienne faces a formidable foe in Harrenhal.</p>",
+    "summary": "<p>Harvey butts heads with Stephen over Ava's case and other issues; Harvey and Jessica must overcome the tension between them to work on Ava's defense; and Louis seeks help from Rachel in his battle with Nigel.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4978"
+        "href": "https://api.tvmaze.com/episodes/12528"
       }
     }
   },
   {
-    "id": 4979,
-    "url": "https://www.tvmaze.com/episodes/4979/game-of-thrones-3x08-second-sons",
-    "name": "Second Sons",
+    "id": 12529,
+    "url": "https://www.tvmaze.com/episodes/12529/suits-3x08-endgame",
+    "name": "Endgame",
     "season": 3,
     "number": 8,
     "type": "regular",
-    "airdate": "2013-05-19",
-    "airtime": "21:00",
-    "airstamp": "2013-05-20T01:00:00+00:00",
+    "airdate": "2013-09-03",
+    "airtime": "22:00",
+    "airstamp": "2013-09-04T02:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2599.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2599.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/175988.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/175988.jpg"
     },
-    "summary": "<p>King's Landing hosts a wedding, and Tyrion and Sansa spend the night together. Daenerys meets the Titan's Bastard. Davos demands proof from Melisandre. Sam and Gilly meet an older Gentleman.</p>",
+    "summary": "<p>Ava's murder trial begins as Mike, Harvey and Jessica navigate a series of betrayals. Elsewhere, Louis and Donna each seek revenge.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4979"
+        "href": "https://api.tvmaze.com/episodes/12529"
       }
     }
   },
   {
-    "id": 4980,
-    "url": "https://www.tvmaze.com/episodes/4980/game-of-thrones-3x09-the-rains-of-castamere",
-    "name": "The Rains of Castamere",
+    "id": 12530,
+    "url": "https://www.tvmaze.com/episodes/12530/suits-3x09-bad-faith",
+    "name": "Bad Faith",
     "season": 3,
     "number": 9,
     "type": "regular",
-    "airdate": "2013-06-02",
-    "airtime": "21:00",
-    "airstamp": "2013-06-03T01:00:00+00:00",
+    "airdate": "2013-09-10",
+    "airtime": "22:00",
+    "airstamp": "2013-09-11T02:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2598.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2598.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/175977.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/175977.jpg"
     },
-    "summary": "<p>Robb presents himself to Walder Frey, and Edmure meets his bride. Jon faces his harshest test yet. Bran discovers a new gift. Daario and Jorah debate how to take Yunkai. House Frey joins with House Tully.</p>",
+    "summary": "<p>Harvey and Scottie find themselves at odds once again, while Louis persuades Jessica to let him handle the dissolution talks. Elsewhere, Mike makes a big move in his relationship with Rachel.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4980"
+        "href": "https://api.tvmaze.com/episodes/12530"
       }
     }
   },
   {
-    "id": 4981,
-    "url": "https://www.tvmaze.com/episodes/4981/game-of-thrones-3x10-mhysa",
-    "name": "Mhysa",
+    "id": 12531,
+    "url": "https://www.tvmaze.com/episodes/12531/suits-3x10-stay",
+    "name": "Stay",
     "season": 3,
     "number": 10,
     "type": "regular",
-    "airdate": "2013-06-09",
-    "airtime": "21:00",
-    "airstamp": "2013-06-10T01:00:00+00:00",
+    "airdate": "2013-09-17",
+    "airtime": "22:00",
+    "airstamp": "2013-09-18T02:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2597.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2597.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/175978.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/175978.jpg"
     },
-    "summary": "<p>Joffrey challenges Tywin. Bran tells a ghost story. In Dragonstone, mercy comes from strange quarters. Daenerys waits to see if she is a conqueror or a liberator.</p>",
+    "summary": "<p>Harvey and Scottie find themselves on opposite sides when an old enemy complicates the Pearson Darby negotiations. Elsewhere, Sheila and Louis are at odds over a new hire, and Jessica is unhappy with Mike and Rachel.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4981"
+        "href": "https://api.tvmaze.com/episodes/12531"
       }
     }
   },
   {
-    "id": 4982,
-    "url": "https://www.tvmaze.com/episodes/4982/game-of-thrones-4x01-two-swords",
-    "name": "Two Swords",
+    "id": 12532,
+    "url": "https://www.tvmaze.com/episodes/12532/suits-3x11-buried-secrets",
+    "name": "Buried Secrets",
+    "season": 3,
+    "number": 11,
+    "type": "regular",
+    "airdate": "2014-03-06",
+    "airtime": "21:00",
+    "airstamp": "2014-03-07T02:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/175979.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/175979.jpg"
+    },
+    "summary": "<p>Complications arise between Harvey, Jessica and Scottie; Mike faces his demons during a case against an old enemy; Louis' suspicions may expose Mike.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/12532"
+      }
+    }
+  },
+  {
+    "id": 12533,
+    "url": "https://www.tvmaze.com/episodes/12533/suits-3x12-yesterdays-gone",
+    "name": "Yesterday's Gone",
+    "season": 3,
+    "number": 12,
+    "type": "regular",
+    "airdate": "2014-03-13",
+    "airtime": "21:00",
+    "airstamp": "2014-03-14T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/175980.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/175980.jpg"
+    },
+    "summary": "<p>Jessica finds an unlikely friend in Harvey as her concerns continue to mount.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/12533"
+      }
+    }
+  },
+  {
+    "id": 12534,
+    "url": "https://www.tvmaze.com/episodes/12534/suits-3x13-moot-point",
+    "name": "Moot Point",
+    "season": 3,
+    "number": 13,
+    "type": "regular",
+    "airdate": "2014-03-20",
+    "airtime": "21:00",
+    "airstamp": "2014-03-21T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/175981.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/175981.jpg"
+    },
+    "summary": "<p>Harvey faces an old rival from law school; Jessica tries to stay out of Louis and Scottie's feud.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/12534"
+      }
+    }
+  },
+  {
+    "id": 12535,
+    "url": "https://www.tvmaze.com/episodes/12535/suits-3x14-heartburn",
+    "name": "Heartburn",
+    "season": 3,
+    "number": 14,
+    "type": "regular",
+    "airdate": "2014-03-27",
+    "airtime": "21:00",
+    "airstamp": "2014-03-28T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/175982.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/175982.jpg"
+    },
+    "summary": "<p>A major client demands that Harvey and Mike perform an unpleasant task; Louis faces a difficult challenge; Laura collects an old debt.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/12535"
+      }
+    }
+  },
+  {
+    "id": 12536,
+    "url": "https://www.tvmaze.com/episodes/12536/suits-3x15-know-when-to-fold-em",
+    "name": "Know When to Fold 'Em",
+    "season": 3,
+    "number": 15,
+    "type": "regular",
+    "airdate": "2014-04-03",
+    "airtime": "21:00",
+    "airstamp": "2014-04-04T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/175983.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/175983.jpg"
+    },
+    "summary": "<p>A persistent attorney goes after one of Harvey's clients; Mike is faced with a difficult decision; former name partner Charles Van Dyke returns with revenge on his mind.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/12536"
+      }
+    }
+  },
+  {
+    "id": 12537,
+    "url": "https://www.tvmaze.com/episodes/12537/suits-3x16-no-way-out",
+    "name": "No Way Out",
+    "season": 3,
+    "number": 16,
+    "type": "regular",
+    "airdate": "2014-04-10",
+    "airtime": "21:00",
+    "airstamp": "2014-04-11T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/175984.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/175984.jpg"
+    },
+    "summary": "<p>Harvey and Mike clash with a tenacious U.S. attorney in the Series 3 finale. Elsewhere, Scottie and Harvey struggle to reach a compromise, and Mike and Rachel have different ideas about the future.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/12537"
+      }
+    }
+  },
+  {
+    "id": 12538,
+    "url": "https://www.tvmaze.com/episodes/12538/suits-4x01-one-two-three-go",
+    "name": "One-Two-Three Go...",
     "season": 4,
     "number": 1,
     "type": "regular",
-    "airdate": "2014-04-06",
+    "airdate": "2014-06-11",
     "airtime": "21:00",
-    "airstamp": "2014-04-07T01:00:00+00:00",
+    "airstamp": "2014-06-12T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2583.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2583.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/175898.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/175898.jpg"
     },
-    "summary": "<p>Tyrion welcomes a guest to King's Landing. At Castle Black, Jon Snow finds himself unwelcome. Dany is pointed to Meereen, the mother of all slave cities. Arya runs into an old friend.</p>",
+    "summary": "<p>Mike and Harvey clash over investment-banking strategies in the Season 4 opener. Meanwhile, Pearson realizes a former district attorney may be pursuing revenge against Harvey and the firm.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4982"
+        "href": "https://api.tvmaze.com/episodes/12538"
       }
     }
   },
   {
-    "id": 4983,
-    "url": "https://www.tvmaze.com/episodes/4983/game-of-thrones-4x02-the-lion-and-the-rose",
-    "name": "The Lion and the Rose",
+    "id": 12539,
+    "url": "https://www.tvmaze.com/episodes/12539/suits-4x02-breakfast-lunch-and-dinner",
+    "name": "Breakfast, Lunch and Dinner",
     "season": 4,
     "number": 2,
     "type": "regular",
-    "airdate": "2014-04-13",
+    "airdate": "2014-06-18",
     "airtime": "21:00",
-    "airstamp": "2014-04-14T01:00:00+00:00",
+    "airstamp": "2014-06-19T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2584.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2584.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/175897.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/175897.jpg"
     },
-    "summary": "<p>Tyrion lends Jaime a hand. Joffrey and Margaery host a breakfast. At Dragonstone, Stannis loses patience with Davos. Ramsay finds a purpose for his pet. North of the Wall, Bran sees where they must go.</p>",
+    "summary": "<p>A takeover battle pits Harvey and Mike against one another, and the situation is only complicated further by Mike's relationship with Rachel. Elsewhere, Louis partners with recent SEC defector Jeff Malonein.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4983"
+        "href": "https://api.tvmaze.com/episodes/12539"
       }
     }
   },
   {
-    "id": 4984,
-    "url": "https://www.tvmaze.com/episodes/4984/game-of-thrones-4x03-breaker-of-chains",
-    "name": "Breaker of Chains",
+    "id": 12540,
+    "url": "https://www.tvmaze.com/episodes/12540/suits-4x03-two-in-the-knees",
+    "name": "Two in the Knees",
     "season": 4,
     "number": 3,
     "type": "regular",
-    "airdate": "2014-04-20",
+    "airdate": "2014-06-25",
     "airtime": "21:00",
-    "airstamp": "2014-04-21T01:00:00+00:00",
+    "airstamp": "2014-06-26T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2585.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2585.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/175896.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/175896.jpg"
     },
-    "summary": "<p>Tyrion ponders his options. Tywin extends an olive branch. Sam realizes Castle Black isn't safe, and Jon proposes a bold plan. The Hound teaches Arya the way things are. Dany chooses her Champion.</p>",
+    "summary": "<p>Logan Sanders, a client of Pearson Specter, looks to Harvey to confirm that his relationship with Mike won't prevent them from winning the takeover battle. Elsewhere, misunderstandings arise between Louis and his new colleague Jeff Malone.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4984"
+        "href": "https://api.tvmaze.com/episodes/12540"
       }
     }
   },
   {
-    "id": 4985,
-    "url": "https://www.tvmaze.com/episodes/4985/game-of-thrones-4x04-oathkeeper",
-    "name": "Oathkeeper",
+    "id": 12541,
+    "url": "https://www.tvmaze.com/episodes/12541/suits-4x04-leveraged",
+    "name": "Leveraged",
     "season": 4,
     "number": 4,
     "type": "regular",
-    "airdate": "2014-04-27",
+    "airdate": "2014-07-09",
     "airtime": "21:00",
-    "airstamp": "2014-04-28T01:00:00+00:00",
+    "airstamp": "2014-07-10T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2586.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2586.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/175895.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/175895.jpg"
     },
-    "summary": "<p>Dany balances justice and mercy. Jaime tasks Brienne with his honor. Jon secures volunteers while Bran, Jojen, Meera and Hodor stumble on shelter.</p>",
+    "summary": "<p>Mike initiates a hostile takeover of Gillis Industries while Harvey and Louis work feverishly against his efforts. Elsewhere, Jessica and Malone meet with Sean Cahill, who has the weight of the SEC behind him in bringing down the firm.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4985"
+        "href": "https://api.tvmaze.com/episodes/12541"
       }
     }
   },
   {
-    "id": 4986,
-    "url": "https://www.tvmaze.com/episodes/4986/game-of-thrones-4x05-first-of-his-name",
-    "name": "First of His Name",
+    "id": 12542,
+    "url": "https://www.tvmaze.com/episodes/12542/suits-4x05-pound-of-flesh",
+    "name": "Pound of Flesh",
     "season": 4,
     "number": 5,
     "type": "regular",
-    "airdate": "2014-05-04",
+    "airdate": "2014-07-16",
     "airtime": "21:00",
-    "airstamp": "2014-05-05T01:00:00+00:00",
+    "airstamp": "2014-07-17T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2587.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2587.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/175894.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/175894.jpg"
     },
-    "summary": "<p>Cersei and Tywin plot the Crown's next move. Dany discusses future plans. Jon embarks on a new mission.</p>",
+    "summary": "<p>Rachel becomes increasingly anxious about work, school, and the growing attraction between herself and Pearson Specter client Logan Sanders. Meanwhile, Louis helps Donna prepare for a major role while she encourages him to face his fear. Harvey and Mike agree to a ceasefire, but Sam accuses him of collusion and Mike learns how ruthless his new partner can be.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4986"
+        "href": "https://api.tvmaze.com/episodes/12542"
       }
     }
   },
   {
-    "id": 4987,
-    "url": "https://www.tvmaze.com/episodes/4987/game-of-thrones-4x06-the-laws-of-gods-and-men",
-    "name": "The Laws of Gods and Men",
+    "id": 12543,
+    "url": "https://www.tvmaze.com/episodes/12543/suits-4x06-litt-the-hell-up",
+    "name": "Litt the Hell Up",
     "season": 4,
     "number": 6,
     "type": "regular",
-    "airdate": "2014-05-11",
+    "airdate": "2014-07-23",
     "airtime": "21:00",
-    "airstamp": "2014-05-12T01:00:00+00:00",
+    "airstamp": "2014-07-24T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2588.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2588.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/175893.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/175893.jpg"
     },
-    "summary": "<p>Stannis and Davos set sail with a new strategy. Dany meets with supplicants. Tyrion faces down his father in the throne room.</p>",
+    "summary": "<p>Harvey tries to end the takeover when Sean Cahill brings Pearson Specter client Logan Sanders to the SEC for questioning. Elsewhere, Louis finds a way to make a name for himself when Mike insists on playing hardball.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4987"
+        "href": "https://api.tvmaze.com/episodes/12543"
       }
     }
   },
   {
-    "id": 4988,
-    "url": "https://www.tvmaze.com/episodes/4988/game-of-thrones-4x07-mockingbird",
-    "name": "Mockingbird",
+    "id": 12544,
+    "url": "https://www.tvmaze.com/episodes/12544/suits-4x07-were-done",
+    "name": "We're Done",
     "season": 4,
     "number": 7,
     "type": "regular",
-    "airdate": "2014-05-18",
+    "airdate": "2014-07-30",
     "airtime": "21:00",
-    "airstamp": "2014-05-19T01:00:00+00:00",
+    "airstamp": "2014-07-31T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2589.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2589.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/175892.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/175892.jpg"
     },
-    "summary": "<p>Tyrion enlists an unlikely ally. Daario entreats Dany to allow him to do what he does best. Jon's warnings about the Wall's vulnerability fall on deaf ears. Brienne follows a new lead on the road with Pod.</p>",
+    "summary": "<p>Rachel brings disturbing news while Mike is still reeling from the aftermath of the battle for Gillis Industries. Feeling Harvey is his only friend left, Mike makes a rash decision; elsewhere, Jessica asks Louis to pick his own reward after his victory for the firm.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4988"
+        "href": "https://api.tvmaze.com/episodes/12544"
       }
     }
   },
   {
-    "id": 4989,
-    "url": "https://www.tvmaze.com/episodes/4989/game-of-thrones-4x08-the-mountain-and-the-viper",
-    "name": "The Mountain and the Viper",
+    "id": 12545,
+    "url": "https://www.tvmaze.com/episodes/12545/suits-4x08-exposure",
+    "name": "Exposure",
     "season": 4,
     "number": 8,
     "type": "regular",
-    "airdate": "2014-06-01",
+    "airdate": "2014-08-06",
     "airtime": "21:00",
-    "airstamp": "2014-06-02T01:00:00+00:00",
+    "airstamp": "2014-08-07T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2591.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2591.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/175891.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/175891.jpg"
     },
-    "summary": "<p>Mole's Town receives unexpected visitors. Littlefinger's motives are questioned. Ramsay attempts to prove himself to his father. Tyrion's fate is decided.</p>",
+    "summary": "<p>Mike and Rachel work closely with one another while Jessica and Harvey try to outmaneuver Sean Cahill. Elsewhere, Louis tries to hide evidence for the sake of his career.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4989"
+        "href": "https://api.tvmaze.com/episodes/12545"
       }
     }
   },
   {
-    "id": 4990,
-    "url": "https://www.tvmaze.com/episodes/4990/game-of-thrones-4x09-the-watchers-on-the-wall",
-    "name": "The Watchers on the Wall",
+    "id": 12546,
+    "url": "https://www.tvmaze.com/episodes/12546/suits-4x09-gone",
+    "name": "Gone",
     "season": 4,
     "number": 9,
     "type": "regular",
-    "airdate": "2014-06-08",
+    "airdate": "2014-08-13",
     "airtime": "21:00",
-    "airstamp": "2014-06-09T01:00:00+00:00",
+    "airstamp": "2014-08-14T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2593.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2593.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/175890.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/175890.jpg"
     },
-    "summary": "<p>Jon Snow and the rest of the Night's Watch face the biggest challenge to the Wall yet.</p>",
+    "summary": "<p>Professional and personal secrets are unearthed when Sean begins a round of depositions as the SEC investigation comes to a head.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4990"
+        "href": "https://api.tvmaze.com/episodes/12546"
       }
     }
   },
   {
-    "id": 4991,
-    "url": "https://www.tvmaze.com/episodes/4991/game-of-thrones-4x10-the-children",
-    "name": "The Children",
+    "id": 12547,
+    "url": "https://www.tvmaze.com/episodes/12547/suits-4x10-this-is-rome",
+    "name": "This Is Rome",
     "season": 4,
     "number": 10,
     "type": "regular",
-    "airdate": "2014-06-15",
+    "airdate": "2014-08-20",
     "airtime": "21:00",
-    "airstamp": "2014-06-16T01:00:00+00:00",
+    "airstamp": "2014-08-21T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/2594.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2594.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/175889.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/175889.jpg"
     },
-    "summary": "<p>An unexpected arrival north of the Wall changes circumstances. Dany is forced to face harsh realities. Bran learns more of his destiny. Tyrion sees the truth of his situation.</p>",
+    "summary": "<p>Harvey and Jessica try to protect the firm from competitors; Louis tries to balance his personal and professional affairs.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/4991"
+        "href": "https://api.tvmaze.com/episodes/12547"
       }
     }
   },
   {
-    "id": 116522,
-    "url": "https://www.tvmaze.com/episodes/116522/game-of-thrones-5x01-the-wars-to-come",
-    "name": "The Wars to Come",
+    "id": 57555,
+    "url": "https://www.tvmaze.com/episodes/57555/suits-4x11-enough-is-enough",
+    "name": "Enough Is Enough",
+    "season": 4,
+    "number": 11,
+    "type": "regular",
+    "airdate": "2015-01-28",
+    "airtime": "22:00",
+    "airstamp": "2015-01-29T03:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/7/19992.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/19992.jpg"
+    },
+    "summary": "<p>Gabriel Macht directs the Season 4 mid-season premiere, which finds Louis gaining leverage in his quest to become a name partner of the firm; and the Pearson Specter team dealing with the fallout of Louis learning Mike's secret.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/57555"
+      }
+    }
+  },
+  {
+    "id": 124035,
+    "url": "https://www.tvmaze.com/episodes/124035/suits-4x12-respect",
+    "name": "Respect",
+    "season": 4,
+    "number": 12,
+    "type": "regular",
+    "airdate": "2015-02-04",
+    "airtime": "22:00",
+    "airstamp": "2015-02-05T03:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/175888.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/175888.jpg"
+    },
+    "summary": "<p>Harvard ethics professor Henry Gerard seeks Harvey's help with a case that requires a lack of ethics to win. Mike, meanwhile, does his best to not be spotted by the professor, whose class he never took; and Louis tries to wine and dine a socialite CEO.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/124035"
+      }
+    }
+  },
+  {
+    "id": 124036,
+    "url": "https://www.tvmaze.com/episodes/124036/suits-4x13-fork-in-the-road",
+    "name": "Fork in the Road",
+    "season": 4,
+    "number": 13,
+    "type": "regular",
+    "airdate": "2015-02-11",
+    "airtime": "22:00",
+    "airstamp": "2015-02-12T03:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/8/21577.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/8/21577.jpg"
+    },
+    "summary": "<p>Harvey and Louis travel to see a client to whom they have deep ties; and Harvey takes advantage of the time to force Louis and Mike to confront their trust issues. In other events, in a flashback, the root of Harvey and Louis's competitive relationship is explained; and Mike learns the limits of his intelligence when it comes to the law.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/124036"
+      }
+    }
+  },
+  {
+    "id": 124037,
+    "url": "https://www.tvmaze.com/episodes/124037/suits-4x14-derailed",
+    "name": "Derailed",
+    "season": 4,
+    "number": 14,
+    "type": "regular",
+    "airdate": "2015-02-18",
+    "airtime": "22:00",
+    "airstamp": "2015-02-19T03:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/175887.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/175887.jpg"
+    },
+    "summary": "<p>When Mike takes a humanitarian case with the potential to jeopardize firm business, Harvey must decide how much to rein in his associate. Meanwhile, Jessica wrestles with the distance she's been forced to put between herself and Jeff Malone. And Louis fights to get the respect a name partner deserves.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/124037"
+      }
+    }
+  },
+  {
+    "id": 124038,
+    "url": "https://www.tvmaze.com/episodes/124038/suits-4x15-intent",
+    "name": "Intent",
+    "season": 4,
+    "number": 15,
+    "type": "regular",
+    "airdate": "2015-02-25",
+    "airtime": "22:00",
+    "airstamp": "2015-02-26T03:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/8/22428.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/8/22428.jpg"
+    },
+    "summary": "<p>Harvey and Mike scramble to save the Liberty Rail case; D.A. Wolf comes after the firm; and Jessica and Malone try to adjust to their new circumstances.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/124038"
+      }
+    }
+  },
+  {
+    "id": 141816,
+    "url": "https://www.tvmaze.com/episodes/141816/suits-4x16-not-just-a-pretty-face",
+    "name": "Not Just a Pretty Face",
+    "season": 4,
+    "number": 16,
+    "type": "regular",
+    "airdate": "2015-03-04",
+    "airtime": "22:00",
+    "airstamp": "2015-03-05T03:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/9/22908.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/9/22908.jpg"
+    },
+    "summary": "<p>When SEC investigator Sean Cahill fails to link his corrupt boss Eric Woodall with corporate raider Charles Forstman, Harvey consults with Jessica but must ultimately revisit his own uncomfortable past in order to find a way to put them away for good. Mike and Rachel confront the fact that, while Rachel is Harvey's associate, Mike is his guy. And Donna helps Louis with an unexpected crisis.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/141816"
+      }
+    }
+  },
+  {
+    "id": 153399,
+    "url": "https://www.tvmaze.com/episodes/153399/suits-5x01-denial",
+    "name": "Denial",
     "season": 5,
     "number": 1,
     "type": "regular",
-    "airdate": "2015-04-12",
+    "airdate": "2015-06-24",
     "airtime": "21:00",
-    "airstamp": "2015-04-13T01:00:00+00:00",
+    "airstamp": "2015-06-25T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/10/25988.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/25988.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/72/181055.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/72/181055.jpg"
     },
-    "summary": "<p>Varys discusses a conspiracy with Tyrion; Daenerys' rule faces a new threat; Jon finds himself between two kings; and Cersei and Jaime try to move on from Tywin's demise.</p>",
+    "summary": "<p>In the Season 5 premiere, Harvey's work is impacted by changes around the office; and Donna adjusts to working for Louis, who believes she's certain to return to Harvey. In other events, Mike and Rachel must decide how and when to share their big news; and an up-and-coming partner confronts Jessica about Harvey's way of doing business.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/116522"
+        "href": "https://api.tvmaze.com/episodes/153399"
       }
     }
   },
   {
-    "id": 144328,
-    "url": "https://www.tvmaze.com/episodes/144328/game-of-thrones-5x02-the-house-of-black-and-white",
-    "name": "The House of Black and White",
+    "id": 177751,
+    "url": "https://www.tvmaze.com/episodes/177751/suits-5x02-compensation",
+    "name": "Compensation",
     "season": 5,
     "number": 2,
     "type": "regular",
-    "airdate": "2015-04-19",
+    "airdate": "2015-07-01",
     "airtime": "21:00",
-    "airstamp": "2015-04-20T01:00:00+00:00",
+    "airstamp": "2015-07-02T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/10/25989.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/25989.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/72/181059.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/72/181059.jpg"
     },
-    "summary": "<p>Arya arrives in Braavos; Brienne and Podrick find danger while traveling; Cersei worries about Myrcella in Dorne when Ellaria Sand seeks revenge for Oberyn's death; Jon is tempted by Stannis.</p>",
+    "summary": "<p>Harvey searches for a replacement for Donna. Mike takes a case as a favor, which he must justify to Jessica - while Rachel's father, Robert Zane, offers some unsolicited advice about Rachel's engagement to Mike. And Louis is embroiled in surprising money matters, while an up-and-coming partner, Jack, makes his presence known to Jessica, confronting her about whether Harvey's way of doing business is beneficial to the firm.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/144328"
+        "href": "https://api.tvmaze.com/episodes/177751"
       }
     }
   },
   {
-    "id": 144329,
-    "url": "https://www.tvmaze.com/episodes/144329/game-of-thrones-5x03-high-sparrow",
-    "name": "High Sparrow",
+    "id": 177752,
+    "url": "https://www.tvmaze.com/episodes/177752/suits-5x03-no-refills",
+    "name": "No Refills",
     "season": 5,
     "number": 3,
     "type": "regular",
-    "airdate": "2015-04-26",
+    "airdate": "2015-07-08",
     "airtime": "21:00",
-    "airstamp": "2015-04-27T01:00:00+00:00",
+    "airstamp": "2015-07-09T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/10/25990.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/25990.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/72/181060.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/72/181060.jpg"
     },
-    "summary": "<p>Cersei meets the High Sparrow after learning of a clergyman's embarrassing tale. Meanwhile, Davos talks to Jon about the future of Winterfell, where Ramsay Snow has just learned the identity of his future bride; Arya grows impatient doing menial tasks in the House of Black and White; and Tyrion searches for more comfortable surroundings on a long trip with Varys.</p>",
+    "summary": "<p>Harvey brings some star power to his ongoing conflict with Jack Soloff - a conflict that Louis and Donna can't seem to stay clear of. Mike brings in Robert Zane to co-counsel a case, pitting his instincts as a lawyer against his desire to stay in his future father-in-law's good graces. And while Jessica mediates between Mike and Zane, she tasks Rachel with an unusual assignment.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/144329"
+        "href": "https://api.tvmaze.com/episodes/177752"
       }
     }
   },
   {
-    "id": 144330,
-    "url": "https://www.tvmaze.com/episodes/144330/game-of-thrones-5x04-sons-of-the-harpy",
-    "name": "Sons of the Harpy",
+    "id": 177753,
+    "url": "https://www.tvmaze.com/episodes/177753/suits-5x04-no-puedo-hacerlo",
+    "name": "No Puedo Hacerlo",
     "season": 5,
     "number": 4,
     "type": "regular",
-    "airdate": "2015-05-03",
+    "airdate": "2015-07-15",
     "airtime": "21:00",
-    "airstamp": "2015-05-04T01:00:00+00:00",
+    "airstamp": "2015-07-16T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/10/26444.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/26444.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/72/181061.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/72/181061.jpg"
     },
-    "summary": "<p>Margaery seeks prudent counsel. Jaime Struggles in foreign lands. Dany answers the Harpy's call.</p>",
+    "summary": "<p>Harvey steps outside his usual area of expertise, in order to take a case from a client who has a special tie to the firm. Mike and Zane work their class-action case together, but Mike learns they have different ideas about what constitutes a win - for themselves, and for their clients. And Donna counsels Louis on the best way to settle a feud.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/144330"
+        "href": "https://api.tvmaze.com/episodes/177753"
       }
     }
   },
   {
-    "id": 151777,
-    "url": "https://www.tvmaze.com/episodes/151777/game-of-thrones-5x05-kill-the-boy",
-    "name": "Kill the Boy",
+    "id": 177754,
+    "url": "https://www.tvmaze.com/episodes/177754/suits-5x05-toe-to-toe",
+    "name": "Toe to Toe",
     "season": 5,
     "number": 5,
     "type": "regular",
-    "airdate": "2015-05-10",
+    "airdate": "2015-07-22",
     "airtime": "21:00",
-    "airstamp": "2015-05-11T01:00:00+00:00",
+    "airstamp": "2015-07-23T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/10/26819.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/26819.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/73/183026.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/73/183026.jpg"
     },
-    "summary": "<p>Dany makes a difficult decision in Meereen. Jon recruits the help of an unexpected ally. Brienne searches for Sansa. Theon remains under Ramsay's control.</p>",
+    "summary": "<p>When Harvey's bitter rival Travis Tanner turns up on the other side of a case, claiming to be a changed man, Harvey and Mike must decide whether to believe him - or bury him. As Harvey's sessions with Dr. Agard continue, she links his personal stake in the Tanner fight to issues from his past. Meanwhile, Jessica tasks Louis to make things right with Harvey, and with Rachel and Donna's help he devises a plan - one which could make an enemy of the formidable Jack Soloff.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/151777"
+        "href": "https://api.tvmaze.com/episodes/177754"
       }
     }
   },
   {
-    "id": 152766,
-    "url": "https://www.tvmaze.com/episodes/152766/game-of-thrones-5x06-unbowed-unbent-unbroken",
-    "name": "Unbowed, Unbent, Unbroken",
+    "id": 189615,
+    "url": "https://www.tvmaze.com/episodes/189615/suits-5x06-privilege",
+    "name": "Privilege",
     "season": 5,
     "number": 6,
     "type": "regular",
-    "airdate": "2015-05-17",
+    "airdate": "2015-07-29",
     "airtime": "21:00",
-    "airstamp": "2015-05-18T01:00:00+00:00",
+    "airstamp": "2015-07-30T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/10/27259.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/27259.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/73/183024.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/73/183024.jpg"
     },
-    "summary": "<p>Arya trains. Jorah and Tyrion run into slavers. Trystane and Myrcella make plans. Jaime and Bronn reach their destination. The Sand Snakes attack.</p>",
+    "summary": "<p>Reeling from Dr. Agard's revelation about the root of his panic attacks, Harvey is forced to make a tough personal decision in a case that touches a nerve. Meanwhile, Mike and Louis have taken over responsibility for Harvey's oldest client, and must decide what to do when that client's demands go against his own best interests. And Donna tries to work her magic to make Rachel's dream wedding possible.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/152766"
+        "href": "https://api.tvmaze.com/episodes/189615"
       }
     }
   },
   {
-    "id": 153327,
-    "url": "https://www.tvmaze.com/episodes/153327/game-of-thrones-5x07-the-gift",
-    "name": "The Gift",
+    "id": 201011,
+    "url": "https://www.tvmaze.com/episodes/201011/suits-5x07-hitting-home",
+    "name": "Hitting Home",
     "season": 5,
     "number": 7,
     "type": "regular",
-    "airdate": "2015-05-24",
+    "airdate": "2015-08-05",
     "airtime": "21:00",
-    "airstamp": "2015-05-25T01:00:00+00:00",
+    "airstamp": "2015-08-06T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/11/27535.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/11/27535.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/73/184882.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/73/184882.jpg"
     },
-    "summary": "<p>Jon prepares for conflict. Sansa tries to talk to Theon. Brienne waits for a sign. Stannis remains stubborn. Jaime attempts to reconnect with family.</p><p><br><br></p>",
+    "summary": "<p>Mike teams with Jack Soloff on a case; Esther Litt returns to P.S.L. in hopes of discreetly solving a problem; and Donna and Harvey try to return their friendship to normal.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/153327"
+        "href": "https://api.tvmaze.com/episodes/201011"
       }
     }
   },
   {
-    "id": 155299,
-    "url": "https://www.tvmaze.com/episodes/155299/game-of-thrones-5x08-hardhome",
-    "name": "Hardhome",
+    "id": 202073,
+    "url": "https://www.tvmaze.com/episodes/202073/suits-5x08-mea-culpa",
+    "name": "Mea Culpa",
     "season": 5,
     "number": 8,
     "type": "regular",
-    "airdate": "2015-05-31",
-    "airtime": "21:00",
-    "airstamp": "2015-06-01T01:00:00+00:00",
+    "airdate": "2015-08-12",
+    "airtime": "22:00",
+    "airstamp": "2015-08-13T02:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/11/28151.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/11/28151.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/73/184883.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/73/184883.jpg"
     },
-    "summary": "<p>Arya makes progress in her training. Sansa confronts an old friend. Cersei struggles. Jon travels.</p><p><br><br></p>",
+    "summary": "<p>Jessica does damage control in the wake of Harvey punching Louis, just as Jack Soloff and Daniel Hardman are looking for weaknesses to exploit. Meanwhile, Donna counsels both men on how to rectify their issues. And Mike must find a way to turn down his recently announced promotion without raising suspicion - while he and Rachel combat an opposing attorney who holds the key to uncovering his secret.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/155299"
+        "href": "https://api.tvmaze.com/episodes/202073"
       }
     }
   },
   {
-    "id": 160040,
-    "url": "https://www.tvmaze.com/episodes/160040/game-of-thrones-5x09-the-dance-of-dragons",
-    "name": "The Dance of Dragons",
+    "id": 202850,
+    "url": "https://www.tvmaze.com/episodes/202850/suits-5x09-uninvited-guests",
+    "name": "Uninvited Guests",
     "season": 5,
     "number": 9,
     "type": "regular",
-    "airdate": "2015-06-07",
-    "airtime": "21:00",
-    "airstamp": "2015-06-08T01:00:00+00:00",
+    "airdate": "2015-08-19",
+    "airtime": "22:00",
+    "airstamp": "2015-08-20T02:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/11/29160.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/11/29160.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/15/38920.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/15/38920.jpg"
     },
-    "summary": "<p>Stannis confronts a troubling decision. Jon returns to The Wall. Mace visits the Iron Bank. Arya encounters someone from her past. Dany reluctantly oversees a traditional celebration of athleticism.</p>",
+    "summary": "<p>Rachel and her mother, Laura Zane, plan for Rachel's dream wedding, but Rachel fears the event may reveal Mike's secret. Meanwhile Daniel Hardman and Jack Soloff make their move against Jessica and the partners, as Harvey and Mike tangle with Hardman's mysterious backer, and Louis tries to find Jack's Achilles heel.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/160040"
+        "href": "https://api.tvmaze.com/episodes/202850"
       }
     }
   },
   {
-    "id": 162186,
-    "url": "https://www.tvmaze.com/episodes/162186/game-of-thrones-5x10-mothers-mercy",
-    "name": "Mother's Mercy",
+    "id": 203890,
+    "url": "https://www.tvmaze.com/episodes/203890/suits-5x10-faith",
+    "name": "Faith",
     "season": 5,
     "number": 10,
     "type": "regular",
-    "airdate": "2015-06-14",
+    "airdate": "2015-08-26",
     "airtime": "21:00",
-    "airstamp": "2015-06-15T01:00:00+00:00",
+    "airstamp": "2015-08-27T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/12/30012.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/12/30012.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/16/40193.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/16/40193.jpg"
     },
-    "summary": "<p>Cersei seeks forgiveness; Jon faces a new challenge; Arya plots to cross a name off her list; Tyrion sees a familiar face; and Daenerys finds herself surrounded by strangers.</p>",
+    "summary": "<p>Jessica and Louis try to rally the partners to stop the takeover attempt by Hardman and Soloff. In other events, Mike and Harvey each face down past demons in order to make potentially life-altering decisions.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/162186"
+        "href": "https://api.tvmaze.com/episodes/203890"
       }
     }
   },
   {
-    "id": 560813,
-    "url": "https://www.tvmaze.com/episodes/560813/game-of-thrones-6x01-the-red-woman",
-    "name": "The Red Woman",
+    "id": 426794,
+    "url": "https://www.tvmaze.com/episodes/426794/suits-5x11-blowback",
+    "name": "Blowback",
+    "season": 5,
+    "number": 11,
+    "type": "regular",
+    "airdate": "2016-01-27",
+    "airtime": "22:00",
+    "airstamp": "2016-01-28T03:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/39/98177.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/39/98177.jpg"
+    },
+    "summary": "<p>As we begin our mid-season premiere, Mike's worst fears have come true. He's been arrested for fraud and is under investigation by a ruthless government prosecutor, Assistant US Attorney Anita Gibbs. Meanwhile, Jessica and Harvey must figure out how to build a defense for Mike, knowing full well that he's guilty of the crime for which he stands accused. And Rachel must come to terms with her family's reaction to the news that her fiancé is not the person he claimed to be - and that he could soon be in prison.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/426794"
+      }
+    }
+  },
+  {
+    "id": 570459,
+    "url": "https://www.tvmaze.com/episodes/570459/suits-5x12-live-to-fight",
+    "name": "Live to Fight",
+    "season": 5,
+    "number": 12,
+    "type": "regular",
+    "airdate": "2016-02-03",
+    "airtime": "22:00",
+    "airstamp": "2016-02-04T03:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/42/106355.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/42/106355.jpg"
+    },
+    "summary": "<p>Mike and Louis must identify an anonymous tipster in order to diffuse a damning piece of evidence. Meanwhile, Gibbs isn't just after Mike, she's set her sights on Jessica and Harvey as well</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/570459"
+      }
+    }
+  },
+  {
+    "id": 570460,
+    "url": "https://www.tvmaze.com/episodes/570460/suits-5x13-gods-green-earth",
+    "name": "God's Green Earth",
+    "season": 5,
+    "number": 13,
+    "type": "regular",
+    "airdate": "2016-02-10",
+    "airtime": "22:00",
+    "airstamp": "2016-02-11T03:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/42/106354.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/42/106354.jpg"
+    },
+    "summary": "<p>With time running out before Mike's case goes to trial, Harvey and Mike are at odds over their strategy, and just what lengths they'll go to in order to defeat Gibbs.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/570460"
+      }
+    }
+  },
+  {
+    "id": 570461,
+    "url": "https://www.tvmaze.com/episodes/570461/suits-5x14-self-defense",
+    "name": "Self Defense",
+    "season": 5,
+    "number": 14,
+    "type": "regular",
+    "airdate": "2016-02-17",
+    "airtime": "22:00",
+    "airstamp": "2016-02-18T03:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/44/110632.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/44/110632.jpg"
+    },
+    "summary": "<p>As time runs out before the trial, Mike wants to represent himself while Harvey wants to lead the charge. To decide the issue, Harvey challenges Mike to a winner takes all showdown.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/570461"
+      }
+    }
+  },
+  {
+    "id": 570462,
+    "url": "https://www.tvmaze.com/episodes/570462/suits-5x15-tick-tock",
+    "name": "Tick Tock",
+    "season": 5,
+    "number": 15,
+    "type": "regular",
+    "airdate": "2016-02-24",
+    "airtime": "22:00",
+    "airstamp": "2016-02-25T03:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/44/110633.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/44/110633.jpg"
+    },
+    "summary": "<p>With things looking bad for the firm, Louis mulls over Anita Gibbs' offer to turn on his compatriots in exchange for immunity. Meanwhile, Rachel gives Mike advice on how best to win hearts and minds in the courtroom. As the pressure mounts, Donna pleads with Harvey to not do anything rash, even as Jessica encourages him to do so. And Harvey and Mike look to a new, last-ditch strategy to win the case.. but as they run out of moves to play and deals to make, they face the possibility of putting Mike's fate in the last place they want it - the hands of a jury.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/570462"
+      }
+    }
+  },
+  {
+    "id": 570463,
+    "url": "https://www.tvmaze.com/episodes/570463/suits-5x16-25th-hour",
+    "name": "25th Hour",
+    "season": 5,
+    "number": 16,
+    "type": "regular",
+    "airdate": "2016-03-02",
+    "airtime": "22:00",
+    "airstamp": "2016-03-03T03:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/47/118659.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/47/118659.jpg"
+    },
+    "summary": "<p>Mike makes the one play he has left when faced with a court battle that could go either way.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/570463"
+      }
+    }
+  },
+  {
+    "id": 774411,
+    "url": "https://www.tvmaze.com/episodes/774411/suits-6x01-to-trouble",
+    "name": "To Trouble",
     "season": 6,
     "number": 1,
     "type": "regular",
-    "airdate": "2016-04-24",
+    "airdate": "2016-07-13",
     "airtime": "21:00",
-    "airstamp": "2016-04-25T01:00:00+00:00",
+    "airstamp": "2016-07-14T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/56/142371.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/56/142371.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/67/168702.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/67/168702.jpg"
     },
-    "summary": "<p>Jon Snow is dead. Daenerys meets a strong man. Cersei sees her daughter again.</p>",
+    "summary": "<p>Season 6 begins immediately following the events of the shocking Season 5 cliffhanger that left Mike behind bars. After signing a plea deal to spare his colleagues at Pearson Specter Litt, Mike will be confronted with the harsh realities of prison life as he starts his two-year sentence. Meanwhile, the once bustling Pearson Specter Litt offices are a ghost town – the partners have defected, leaving Harvey, Jessica (Gina Torres), Louis (Rick Hoffman), Donna (Sarah Rafferty) and Rachel (Meghan Markle) to pick up the pieces. But the firm's troubles are far from over and they will have to deal with the fallout from Mike's crime before they can even begin to rebuild.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/560813"
+        "href": "https://api.tvmaze.com/episodes/774411"
       }
     }
   },
   {
-    "id": 664672,
-    "url": "https://www.tvmaze.com/episodes/664672/game-of-thrones-6x02-home",
-    "name": "Home",
+    "id": 830861,
+    "url": "https://www.tvmaze.com/episodes/830861/suits-6x02-accounts-payable",
+    "name": "Accounts Payable",
     "season": 6,
     "number": 2,
     "type": "regular",
-    "airdate": "2016-05-01",
+    "airdate": "2016-07-20",
     "airtime": "21:00",
-    "airstamp": "2016-05-02T01:00:00+00:00",
+    "airstamp": "2016-07-21T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/56/142372.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/56/142372.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/68/170689.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/68/170689.jpg"
     },
-    "summary": "<p>Bran trains with the Three-Eyed Raven. In King's Landing, Jaime advises Tommen. Tyrion demands good news, but has to make his own. At Castle Black, the Night's Watch stands behind Thorne. Ramsay Bolton proposes a plan, and Balon Greyjoy entertains other proposals.</p>",
+    "summary": "<p>PSL faces a class action lawsuit from former clients; and Mike has problems with a fellow prisoner.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/664672"
+        "href": "https://api.tvmaze.com/episodes/830861"
       }
     }
   },
   {
-    "id": 664673,
-    "url": "https://www.tvmaze.com/episodes/664673/game-of-thrones-6x03-oathbreaker",
-    "name": "Oathbreaker",
+    "id": 830862,
+    "url": "https://www.tvmaze.com/episodes/830862/suits-6x03-back-on-the-map",
+    "name": "Back on the Map",
     "season": 6,
     "number": 3,
     "type": "regular",
-    "airdate": "2016-05-08",
+    "airdate": "2016-07-27",
     "airtime": "21:00",
-    "airstamp": "2016-05-09T01:00:00+00:00",
+    "airstamp": "2016-07-28T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/56/142370.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/56/142370.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/69/172682.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/69/172682.jpg"
     },
-    "summary": "<p>Daenerys meets her future. Bran meets the past. Tommen confronts the High Sparrow. Arya trains to be No One. Varys finds an answer. Ramsay gets a gift.</p>",
+    "summary": "<p>Mike tries to remain safe without breaking Danbury's unwritten rules; Jessica and Harvey try to land a whale; Louis searches for an office tenant; and Rachel faces a fellow student</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/664673"
+        "href": "https://api.tvmaze.com/episodes/830862"
       }
     }
   },
   {
-    "id": 664674,
-    "url": "https://www.tvmaze.com/episodes/664674/game-of-thrones-6x04-book-of-the-stranger",
-    "name": "Book of the Stranger",
+    "id": 830863,
+    "url": "https://www.tvmaze.com/episodes/830863/suits-6x04-turn",
+    "name": "Turn",
     "season": 6,
     "number": 4,
     "type": "regular",
-    "airdate": "2016-05-15",
+    "airdate": "2016-08-03",
     "airtime": "21:00",
-    "airstamp": "2016-05-16T01:00:00+00:00",
+    "airstamp": "2016-08-04T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/56/142273.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/56/142273.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/69/174615.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/69/174615.jpg"
     },
-    "summary": "<p>Tyrion strikes a deal. Jorah and Daario undertake a difficult task. Jaime and Cersei try to improve their situation.</p>",
+    "summary": "<p>Mike may take a deal to reduce his sentence; Jessica and Louis have different ways of dealing with their new tenants; and Rachel represents a death-row inmate.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/664674"
+        "href": "https://api.tvmaze.com/episodes/830863"
       }
     }
   },
   {
-    "id": 664675,
-    "url": "https://www.tvmaze.com/episodes/664675/game-of-thrones-6x05-the-door",
-    "name": "The Door",
+    "id": 830864,
+    "url": "https://www.tvmaze.com/episodes/830864/suits-6x05-trust",
+    "name": "Trust",
     "season": 6,
     "number": 5,
     "type": "regular",
-    "airdate": "2016-05-22",
+    "airdate": "2016-08-10",
     "airtime": "21:00",
-    "airstamp": "2016-05-23T01:00:00+00:00",
+    "airstamp": "2016-08-11T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/60/150273.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/60/150273.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/70/176607.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/176607.jpg"
     },
-    "summary": "<p>Tyrion seeks a strange ally. Bran learns a great deal. Brienne goes on a mission. Arya is given a chance to prove herself.</p>",
+    "summary": "<p>Mike tries to gain Kevin's trust while Harvey enacts a risky plan; Jessica mends the firm's reputation; Rachel runs into a roadblock; and Louis enlists Donna's help in a matter of the heart.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/664675"
+        "href": "https://api.tvmaze.com/episodes/830864"
       }
     }
   },
   {
-    "id": 664676,
-    "url": "https://www.tvmaze.com/episodes/664676/game-of-thrones-6x06-blood-of-my-blood",
-    "name": "Blood of My Blood",
+    "id": 830865,
+    "url": "https://www.tvmaze.com/episodes/830865/suits-6x06-spain",
+    "name": "Spain",
     "season": 6,
     "number": 6,
     "type": "regular",
-    "airdate": "2016-05-29",
+    "airdate": "2016-08-17",
     "airtime": "21:00",
-    "airstamp": "2016-05-30T01:00:00+00:00",
+    "airstamp": "2016-08-18T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/60/150274.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/60/150274.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/71/179036.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/71/179036.jpg"
     },
-    "summary": "<p>An old foe comes back into the picture. Gilly meets Sam's family. Arya faces a difficult choice. Jaime faces off against the High Sparrow.</p>",
+    "summary": "<p>Harvey defends Sutter from Cahill; Mike's past threatens to derail his mission; Rachel and Jessica search for evidence to re-open Bailey's case; and Louis woos Tara with a trip to the Hamptons.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/664676"
+        "href": "https://api.tvmaze.com/episodes/830865"
       }
     }
   },
   {
-    "id": 717449,
-    "url": "https://www.tvmaze.com/episodes/717449/game-of-thrones-6x07-the-broken-man",
-    "name": "The Broken Man",
+    "id": 830866,
+    "url": "https://www.tvmaze.com/episodes/830866/suits-6x07-shake-the-trees",
+    "name": "Shake the Trees",
     "season": 6,
     "number": 7,
     "type": "regular",
-    "airdate": "2016-06-05",
+    "airdate": "2016-08-24",
     "airtime": "21:00",
-    "airstamp": "2016-06-06T01:00:00+00:00",
+    "airstamp": "2016-08-25T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/60/150275.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/60/150275.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/72/181034.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/72/181034.jpg"
     },
-    "summary": "<p>The High Sparrow eyes another target. Jaime confronts a hero. Arya makes a plan. The North is reminded.</p>",
+    "summary": "<p>Harvey, Louis and Donna search for a link to Sutter's inside trading; Mike goes to extremes to get Kevin on his side; and Rachel and Jessica deliver bad news to Leonard Bailey.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/717449"
+        "href": "https://api.tvmaze.com/episodes/830866"
       }
     }
   },
   {
-    "id": 729573,
-    "url": "https://www.tvmaze.com/episodes/729573/game-of-thrones-6x08-no-one",
-    "name": "No One",
+    "id": 830867,
+    "url": "https://www.tvmaze.com/episodes/830867/suits-6x08-borrowed-time",
+    "name": "Borrowed Time",
     "season": 6,
     "number": 8,
     "type": "regular",
-    "airdate": "2016-06-12",
+    "airdate": "2016-08-31",
     "airtime": "21:00",
-    "airstamp": "2016-06-13T01:00:00+00:00",
+    "airstamp": "2016-09-01T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/61/153044.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/61/153044.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/73/182761.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/73/182761.jpg"
     },
-    "summary": "<p>Jaime encounters a hero; the High Sparrow fixates on another prey; Arya hatches a new plan; Yara and Theon plot their next move; Olenna and Cersei discuss their families' futures.</p><p></p><p>While Jaime weighs his options, Cersei answers a request. Tyrion's plans bear fruit. Arya faces a new test.</p>",
+    "summary": "<p>Harvey rebuts Cahill's star witness; and Mike tries to deliver one of his own. In other events, Jessica and Rachel try to delay Leonard's execution; and Louis adjusts to life as \"the other man.\"</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/729573"
+        "href": "https://api.tvmaze.com/episodes/830867"
       }
     }
   },
   {
-    "id": 729574,
-    "url": "https://www.tvmaze.com/episodes/729574/game-of-thrones-6x09-battle-of-the-bastards",
-    "name": "Battle of the Bastards",
+    "id": 830868,
+    "url": "https://www.tvmaze.com/episodes/830868/suits-6x09-the-hand-that-feeds-you",
+    "name": "The Hand That Feeds You",
     "season": 6,
     "number": 9,
     "type": "regular",
-    "airdate": "2016-06-19",
+    "airdate": "2016-09-07",
     "airtime": "21:00",
-    "airstamp": "2016-06-20T01:00:00+00:00",
+    "airstamp": "2016-09-08T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/62/155042.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/62/155042.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/73/184667.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/73/184667.jpg"
     },
-    "summary": "<p>Ramsay surprises his audience. Jon retaliates. Dany is true to her word.</p>",
+    "summary": "<p>In order to protect Mike, Harvey considers putting Gallo back on the streets; Jessica and Rachel get Bailey's case re-opened; Louis deals with anxiety over Tara.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/729574"
+        "href": "https://api.tvmaze.com/episodes/830868"
       }
     }
   },
   {
-    "id": 729575,
-    "url": "https://www.tvmaze.com/episodes/729575/game-of-thrones-6x10-the-winds-of-winter",
-    "name": "The Winds of Winter",
+    "id": 830869,
+    "url": "https://www.tvmaze.com/episodes/830869/suits-6x10-psl",
+    "name": "P.S.L.",
     "season": 6,
     "number": 10,
     "type": "regular",
-    "airdate": "2016-06-26",
+    "airdate": "2016-09-14",
     "airtime": "21:00",
-    "airstamp": "2016-06-27T01:00:00+00:00",
-    "runtime": 69,
+    "airstamp": "2016-09-15T01:00:00+00:00",
+    "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/63/157920.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/63/157920.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/74/187328.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/74/187328.jpg"
     },
-    "summary": "<p>Alliances are made, the High Sparrow is holding trials at King's Landing, Daenerys is sailing for the Seven Kingdoms and a new King of the North is crowned.</p>",
+    "summary": "<p>Jessica and Rachel fight to save Leonard Bailey; Harvey and Louis try to keep clients from abandoning ship by wooing their oldest client.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/729575"
+        "href": "https://api.tvmaze.com/episodes/830869"
       }
     }
   },
   {
-    "id": 937256,
-    "url": "https://www.tvmaze.com/episodes/937256/game-of-thrones-7x01-dragonstone",
-    "name": "Dragonstone",
+    "id": 979416,
+    "url": "https://www.tvmaze.com/episodes/979416/suits-6x11-shes-gone",
+    "name": "She's Gone",
+    "season": 6,
+    "number": 11,
+    "type": "regular",
+    "airdate": "2017-01-25",
+    "airtime": "22:00",
+    "airstamp": "2017-01-26T03:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/94/237367.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/237367.jpg"
+    },
+    "summary": "<p>Harvey, Louis and Donna plan for the future, after Jessica's departure from Pearson Specter Litt. Mike discovers the perils of life as an ex-convict. And Rachel considers her options for life after law school.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/979416"
+      }
+    }
+  },
+  {
+    "id": 1041932,
+    "url": "https://www.tvmaze.com/episodes/1041932/suits-6x12-the-painting",
+    "name": "The Painting",
+    "season": 6,
+    "number": 12,
+    "type": "regular",
+    "airdate": "2017-02-01",
+    "airtime": "22:00",
+    "airstamp": "2017-02-02T03:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/96/240454.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/96/240454.jpg"
+    },
+    "summary": "<p>Harvey tries to repair a broken relationship - leaving Louis, Donna and Rachel to manage PSL in his absence. Meanwhile, Mike gets a helping hand from an unexpected place.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1041932"
+      }
+    }
+  },
+  {
+    "id": 1046530,
+    "url": "https://www.tvmaze.com/episodes/1046530/suits-6x13-teeth-nose-teeth",
+    "name": "Teeth, Nose, Teeth",
+    "season": 6,
+    "number": 13,
+    "type": "regular",
+    "airdate": "2017-02-08",
+    "airtime": "22:00",
+    "airstamp": "2017-02-09T03:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/97/243607.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/97/243607.jpg"
+    },
+    "summary": "<p>Rachel receives a letter that creates an unexpected issue for Harvey and Louis. Mike's mentorship of Oliver and Marissa gets put to the test. And Donna gets a surprise from the IT department.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1046530"
+      }
+    }
+  },
+  {
+    "id": 1047339,
+    "url": "https://www.tvmaze.com/episodes/1047339/suits-6x14-admission-of-guilt",
+    "name": "Admission of Guilt",
+    "season": 6,
+    "number": 14,
+    "type": "regular",
+    "airdate": "2017-02-15",
+    "airtime": "22:00",
+    "airstamp": "2017-02-16T03:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/98/246720.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/98/246720.jpg"
+    },
+    "summary": "<p>Harvey and Mike walk a fine line when they partner on a class action; Louis needs Rachel's help impressing a client during an annual presentation; and Donna and Benjamin refine their product.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1047339"
+      }
+    }
+  },
+  {
+    "id": 1047340,
+    "url": "https://www.tvmaze.com/episodes/1047340/suits-6x15-quid-pro-quo",
+    "name": "Quid Pro Quo",
+    "season": 6,
+    "number": 15,
+    "type": "regular",
+    "airdate": "2017-02-22",
+    "airtime": "22:00",
+    "airstamp": "2017-02-23T03:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/98/245344.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/98/245344.jpg"
+    },
+    "summary": "<p>When Mike's class action hits a snag, it might cost him more than the case; Harvey, Louis and Rachel consider getting their hands dirty; and Donna and Benjamin seek an investor.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1047340"
+      }
+    }
+  },
+  {
+    "id": 1047341,
+    "url": "https://www.tvmaze.com/episodes/1047341/suits-6x16-character-and-fitness",
+    "name": "Character and Fitness",
+    "season": 6,
+    "number": 16,
+    "type": "regular",
+    "airdate": "2017-03-01",
+    "airtime": "22:00",
+    "airstamp": "2017-03-02T03:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/100/251311.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/100/251311.jpg"
+    },
+    "summary": "<p>Mike needs Harvey and Rachel's help to overcome an impossible obstacle, or his dream of becoming a real lawyer is over. Donna's new venture hits a snag. Louis tries to patch things up with Tara.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1047341"
+      }
+    }
+  },
+  {
+    "id": 1160583,
+    "url": "https://www.tvmaze.com/episodes/1160583/suits-7x01-skin-in-the-game",
+    "name": "Skin in the Game",
     "season": 7,
     "number": 1,
     "type": "regular",
-    "airdate": "2017-07-16",
+    "airdate": "2017-07-12",
     "airtime": "21:00",
-    "airstamp": "2017-07-17T01:00:00+00:00",
+    "airstamp": "2017-07-13T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/120/302038.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/120/302038.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/120/300821.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/120/300821.jpg"
     },
-    "summary": "<p>Jon organizes the defense of the North. Cersei tries to even the odds. Daenerys comes home.</p>",
+    "summary": "<p>Mike returns to Pearson Specter Litt as Harvey takes the reins. Louis manages the new class of associates while Donna and Rachel find their places in the new world order.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/937256"
+        "href": "https://api.tvmaze.com/episodes/1160583"
       }
     }
   },
   {
-    "id": 1221410,
-    "url": "https://www.tvmaze.com/episodes/1221410/game-of-thrones-7x02-stormborn",
-    "name": "Stormborn",
+    "id": 1160584,
+    "url": "https://www.tvmaze.com/episodes/1160584/suits-7x02-the-statue",
+    "name": "The Statue",
     "season": 7,
     "number": 2,
     "type": "regular",
-    "airdate": "2017-07-23",
+    "airdate": "2017-07-19",
     "airtime": "21:00",
-    "airstamp": "2017-07-24T01:00:00+00:00",
+    "airstamp": "2017-07-20T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/120/302047.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/120/302047.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/121/303532.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/121/303532.jpg"
     },
-    "summary": "<p>Daenerys receives an unexpected visitor. Jon faces a revolt. Tyrion plans the conquest of Westeros.</p>",
+    "summary": "<p>Harvey butts heads with his partners over a bold move. Mike pursues a pro bono case with the legal clinic. Donna's actions raise tough questions at the firm.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/1221410"
+        "href": "https://api.tvmaze.com/episodes/1160584"
       }
     }
   },
   {
-    "id": 1221411,
-    "url": "https://www.tvmaze.com/episodes/1221411/game-of-thrones-7x03-the-queens-justice",
-    "name": "The Queen's Justice",
+    "id": 1160585,
+    "url": "https://www.tvmaze.com/episodes/1160585/suits-7x03-mudmare",
+    "name": "Mudmare",
     "season": 7,
     "number": 3,
     "type": "regular",
-    "airdate": "2017-07-30",
+    "airdate": "2017-07-26",
     "airtime": "21:00",
-    "airstamp": "2017-07-31T01:00:00+00:00",
+    "airstamp": "2017-07-27T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/122/306938.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/122/306938.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/122/305801.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/122/305801.jpg"
     },
-    "summary": "<p>Daenerys holds court. Cersei returns a gift. Jaime learns from his mistakes.</p>",
+    "summary": "<p>Louis and Harvey struggle with new firm dynamics; Mike gains new business; Rachel's leadership is challenged by an associate.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/1221411"
+        "href": "https://api.tvmaze.com/episodes/1160585"
       }
     }
   },
   {
-    "id": 1221412,
-    "url": "https://www.tvmaze.com/episodes/1221412/game-of-thrones-7x04-the-spoils-of-war",
-    "name": "The Spoils of War",
+    "id": 1216912,
+    "url": "https://www.tvmaze.com/episodes/1216912/suits-7x04-divide-and-conquer",
+    "name": "Divide and Conquer",
     "season": 7,
     "number": 4,
     "type": "regular",
-    "airdate": "2017-08-06",
+    "airdate": "2017-08-02",
     "airtime": "21:00",
-    "airstamp": "2017-08-07T01:00:00+00:00",
+    "airstamp": "2017-08-03T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/123/307677.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/123/307677.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/123/307743.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/123/307743.jpg"
     },
-    "summary": "<p>Arya gets to the final destination. Daenerys takes it upon herself to strike back.</p>",
+    "summary": "<p>Harvey, Louis and Donna must get on the same page when Bratton Gould comes after PSL; Mike and Rachel cannot make time for wedding plans.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/1221412"
+        "href": "https://api.tvmaze.com/episodes/1216912"
       }
     }
   },
   {
-    "id": 1221413,
-    "url": "https://www.tvmaze.com/episodes/1221413/game-of-thrones-7x05-eastwatch",
-    "name": "Eastwatch",
+    "id": 1250221,
+    "url": "https://www.tvmaze.com/episodes/1250221/suits-7x05-brooklyn-housing",
+    "name": "Brooklyn Housing",
     "season": 7,
     "number": 5,
     "type": "regular",
-    "airdate": "2017-08-13",
+    "airdate": "2017-08-09",
     "airtime": "21:00",
-    "airstamp": "2017-08-14T01:00:00+00:00",
+    "airstamp": "2017-08-10T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/124/310839.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/124/310839.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/123/309661.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/123/309661.jpg"
     },
-    "summary": "<p>Daenerys demands loyalty from the surviving Lannister soldiers; Jon heeds Bran's warning about White Walkers on the move; Cersei vows to vanquish anyone or anything that stands in her way.</p>",
+    "summary": "<p>Mike juggles his work obligations with his promise to help a hurting family. Harvey asks for Louis's discretion in handling a sensitive matter. Donna vets a possible addition to the firm.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/1221413"
+        "href": "https://api.tvmaze.com/episodes/1250221"
       }
     }
   },
   {
-    "id": 1221414,
-    "url": "https://www.tvmaze.com/episodes/1221414/game-of-thrones-7x06-beyond-the-wall",
-    "name": "Beyond the Wall",
+    "id": 1264540,
+    "url": "https://www.tvmaze.com/episodes/1264540/suits-7x06-home-to-roost",
+    "name": "Home to Roost",
     "season": 7,
     "number": 6,
     "type": "regular",
-    "airdate": "2017-08-20",
+    "airdate": "2017-08-16",
     "airtime": "21:00",
-    "airstamp": "2017-08-21T01:00:00+00:00",
+    "airstamp": "2017-08-17T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/125/312651.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/125/312651.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/124/311529.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/124/311529.jpg"
     },
-    "summary": "<p>Jon's mission continues north of the wall, but the odds against his ragged band of misfits may be greater than he imagined.</p>",
+    "summary": "<p>Mike deals with blowback on his prison case. Harvey struggles to tell Donna about his relationship with Paula. Louis's past poor behavior comes back to haunt him.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/1221414"
+        "href": "https://api.tvmaze.com/episodes/1264540"
       }
     }
   },
   {
-    "id": 1221415,
-    "url": "https://www.tvmaze.com/episodes/1221415/game-of-thrones-7x07-the-dragon-and-the-wolf",
-    "name": "The Dragon and the Wolf",
+    "id": 1264541,
+    "url": "https://www.tvmaze.com/episodes/1264541/suits-7x07-full-disclosure",
+    "name": "Full Disclosure",
     "season": 7,
     "number": 7,
     "type": "regular",
-    "airdate": "2017-08-27",
+    "airdate": "2017-08-23",
     "airtime": "21:00",
-    "airstamp": "2017-08-28T01:00:00+00:00",
+    "airstamp": "2017-08-24T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/125/314502.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/125/314502.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/125/313353.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/125/313353.jpg"
     },
-    "summary": "<p>Cersei sits on the Iron Throne; Daenerys sails across the Narrow Sea; Jon Snow is King in the North, and winter is finally here.</p>",
+    "summary": "<p>Harvey learns the scope of Alex's involvement in the prison case, while Mike races to keep it alive. Lipschitz forces Louis out of his comfort zone. Donna struggles with her work/life balance.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/1221415"
+        "href": "https://api.tvmaze.com/episodes/1264541"
       }
     }
   },
   {
-    "id": 1590943,
-    "url": "https://www.tvmaze.com/episodes/1590943/game-of-thrones-8x01-winterfell",
-    "name": "Winterfell",
+    "id": 1264542,
+    "url": "https://www.tvmaze.com/episodes/1264542/suits-7x08-100",
+    "name": "100",
+    "season": 7,
+    "number": 8,
+    "type": "regular",
+    "airdate": "2017-08-30",
+    "airtime": "21:00",
+    "airstamp": "2017-08-31T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/126/315113.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/126/315113.jpg"
+    },
+    "summary": "<p>Harvey and Mike seek outside help to overcome an impossible situation. An unexpected encounter derails Louis's search for a new associate. Donna receives a surprising proposition.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1264542"
+      }
+    }
+  },
+  {
+    "id": 1283575,
+    "url": "https://www.tvmaze.com/episodes/1283575/suits-7x09-shame",
+    "name": "Shame",
+    "season": 7,
+    "number": 9,
+    "type": "regular",
+    "airdate": "2017-09-06",
+    "airtime": "21:00",
+    "airstamp": "2017-09-07T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/126/316961.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/126/316961.jpg"
+    },
+    "summary": "<p>Mike proposes a power move to boost business, but Harvey's past complicates matters. Rachel is surprised when her dad offers a chance to join forces. Louis mentors Brian.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1283575"
+      }
+    }
+  },
+  {
+    "id": 1263650,
+    "url": "https://www.tvmaze.com/episodes/1263650/suits-7x10-donna",
+    "name": "Donna",
+    "season": 7,
+    "number": 10,
+    "type": "regular",
+    "airdate": "2017-09-13",
+    "airtime": "21:00",
+    "airstamp": "2017-09-14T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/127/319140.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/127/319140.jpg"
+    },
+    "summary": "<p>In the Mid-Season finale Mike and Harvey's power move is countered, putting their backs up against the ropes. Rachel fears her father's judgment is clouded by the past. Louis aids Alex when his client comes under fire.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1263650"
+      }
+    }
+  },
+  {
+    "id": 1401379,
+    "url": "https://www.tvmaze.com/episodes/1401379/suits-7x11-hard-truths",
+    "name": "Hard Truths",
+    "season": 7,
+    "number": 11,
+    "type": "regular",
+    "airdate": "2018-03-28",
+    "airtime": "21:00",
+    "airstamp": "2018-03-29T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/151/377995.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/151/377995.jpg"
+    },
+    "summary": "<p>Harvey and Louis fight to protect the future of the firm from its past; Alex worries Mike's instincts could risk a client relationship; Donna and Harvey delve into the aftermath of their kiss.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1401379"
+      }
+    }
+  },
+  {
+    "id": 1418683,
+    "url": "https://www.tvmaze.com/episodes/1418683/suits-7x12-bad-man",
+    "name": "Bad Man",
+    "season": 7,
+    "number": 12,
+    "type": "regular",
+    "airdate": "2018-04-04",
+    "airtime": "21:00",
+    "airstamp": "2018-04-05T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/151/379633.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/151/379633.jpg"
+    },
+    "summary": "<p>Harvey has to call in an old debt for the firm. Mike goes toe-to-toe with an unlikely opponent. Louis comes to terms with his new role.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1418683"
+      }
+    }
+  },
+  {
+    "id": 1428453,
+    "url": "https://www.tvmaze.com/episodes/1428453/suits-7x13-inevitable",
+    "name": "Inevitable",
+    "season": 7,
+    "number": 13,
+    "type": "regular",
+    "airdate": "2018-04-11",
+    "airtime": "21:00",
+    "airstamp": "2018-04-12T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/152/381633.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/152/381633.jpg"
+    },
+    "summary": "<p>Harvey is forced into a difficult decision when the impossible is asked of him. Mike and Rachel try to make time to discuss their future. Louis struggles with the rules of his relationship.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1428453"
+      }
+    }
+  },
+  {
+    "id": 1437050,
+    "url": "https://www.tvmaze.com/episodes/1437050/suits-7x14-pulling-the-goalie",
+    "name": "Pulling the Goalie",
+    "season": 7,
+    "number": 14,
+    "type": "regular",
+    "airdate": "2018-04-18",
+    "airtime": "21:00",
+    "airstamp": "2018-04-19T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/153/383782.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/153/383782.jpg"
+    },
+    "summary": "<p>Mike's attempt to distract Harvey with a case backfires. Louis tries not to let emotion affect his judgment in a legal duel. Donna finds a way to prove her worth to the firm.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1437050"
+      }
+    }
+  },
+  {
+    "id": 1445931,
+    "url": "https://www.tvmaze.com/episodes/1445931/suits-7x15-tiny-violin",
+    "name": "Tiny Violin",
+    "season": 7,
+    "number": 15,
+    "type": "regular",
+    "airdate": "2018-04-25",
+    "airtime": "21:00",
+    "airstamp": "2018-04-26T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/154/385510.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/154/385510.jpg"
+    },
+    "summary": "<p>An attack against Specter Litt blindsides Harvey and Louis; Mike can't turn his back on the clinic when a class action suit overwhelms Nathan and Oliver.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1445931"
+      }
+    }
+  },
+  {
+    "id": 1445932,
+    "url": "https://www.tvmaze.com/episodes/1445932/suits-7x16-good-bye",
+    "name": "Good-Bye",
+    "season": 7,
+    "number": 16,
+    "type": "regular",
+    "airdate": "2018-04-25",
+    "airtime": "22:00",
+    "airstamp": "2018-04-26T02:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/154/385511.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/154/385511.jpg"
+    },
+    "summary": "<p>It's all hands on deck as Louis, Donna and Alex defend the firm, while Harvey aids Jessica on a case; Mike and Rachel juggle their commitments to the firm, the clinic and each other.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1445932"
+      }
+    }
+  },
+  {
+    "id": 1472225,
+    "url": "https://www.tvmaze.com/episodes/1472225/suits-8x01-right-hand-man",
+    "name": "Right-Hand Man",
     "season": 8,
     "number": 1,
     "type": "regular",
-    "airdate": "2019-04-14",
+    "airdate": "2018-07-18",
     "airtime": "21:00",
-    "airstamp": "2019-04-15T01:00:00+00:00",
+    "airstamp": "2018-07-19T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/191/479477.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/191/479477.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/161/404391.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/161/404391.jpg"
     },
-    "summary": "<p>Arriving at Winterfell, Jon and Daenerys struggle to unite a divided North. Jon gets some big news.</p>",
+    "summary": "<p>Following the merger, Harvey and Zane grapple over who should lead the firm. Louis tasks Katrina with culling the herd, but doesn't like her decision. Donna helps her see beyond the numbers.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/1590943"
+        "href": "https://api.tvmaze.com/episodes/1472225"
       }
     }
   },
   {
-    "id": 1623964,
-    "url": "https://www.tvmaze.com/episodes/1623964/game-of-thrones-8x02-a-knight-of-the-seven-kingdoms",
-    "name": "A Knight of the Seven Kingdoms",
+    "id": 1494751,
+    "url": "https://www.tvmaze.com/episodes/1494751/suits-8x02-pecking-order",
+    "name": "Pecking Order",
     "season": 8,
     "number": 2,
     "type": "regular",
-    "airdate": "2019-04-21",
+    "airdate": "2018-07-25",
     "airtime": "21:00",
-    "airstamp": "2019-04-22T01:00:00+00:00",
+    "airstamp": "2018-07-26T01:00:00+00:00",
     "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/192/482451.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/192/482451.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/162/406174.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/162/406174.jpg"
     },
-    "summary": "<p>Jaime faces judgement and Winterfell prepares for the battle to come.</p>",
+    "summary": "<p>Harvey and Donna get a taste of how Samantha operates. Sheila forces Louis to examine his priorities. Katrina points Alex toward a client he hopes will impress Zane.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/1623964"
+        "href": "https://api.tvmaze.com/episodes/1494751"
       }
     }
   },
   {
-    "id": 1623965,
-    "url": "https://www.tvmaze.com/episodes/1623965/game-of-thrones-8x03-the-long-night",
-    "name": "The Long Night",
+    "id": 1496611,
+    "url": "https://www.tvmaze.com/episodes/1496611/suits-8x03-promises-promises",
+    "name": "Promises, Promises",
     "season": 8,
     "number": 3,
     "type": "regular",
-    "airdate": "2019-04-28",
+    "airdate": "2018-08-01",
     "airtime": "21:00",
-    "airstamp": "2019-04-29T01:00:00+00:00",
-    "runtime": 90,
+    "airstamp": "2018-08-02T01:00:00+00:00",
+    "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/192/482465.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/192/482465.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/163/408371.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/163/408371.jpg"
     },
-    "summary": "<p>Winterfell fights the Army of the Dead.</p>",
+    "summary": "<p>Harvey is drawn into a dispute with the firm's landlord. Alex pursues Samantha's former client.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/1623965"
+        "href": "https://api.tvmaze.com/episodes/1496611"
       }
     }
   },
   {
-    "id": 1623966,
-    "url": "https://www.tvmaze.com/episodes/1623966/game-of-thrones-8x04-the-last-of-the-starks",
-    "name": "The Last of the Starks",
+    "id": 1501670,
+    "url": "https://www.tvmaze.com/episodes/1501670/suits-8x04-revenue-per-square-foot",
+    "name": "Revenue Per Square Foot",
     "season": 8,
     "number": 4,
     "type": "regular",
-    "airdate": "2019-05-05",
+    "airdate": "2018-08-08",
     "airtime": "21:00",
-    "airstamp": "2019-05-06T01:00:00+00:00",
-    "runtime": 78,
+    "airstamp": "2018-08-09T01:00:00+00:00",
+    "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/195/487839.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/195/487839.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/163/409681.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/163/409681.jpg"
     },
-    "summary": "<p>The survivors plan their next steps; Cersei makes a power move.</p><p></p>",
+    "summary": "<p>Alex is caught between Harvey and Zane as Louis struggles to overcome a shocking setback.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/1623966"
+        "href": "https://api.tvmaze.com/episodes/1501670"
       }
     }
   },
   {
-    "id": 1623967,
-    "url": "https://www.tvmaze.com/episodes/1623967/game-of-thrones-8x05-the-bells",
-    "name": "The Bells",
+    "id": 1508236,
+    "url": "https://www.tvmaze.com/episodes/1508236/suits-8x05-good-mudding",
+    "name": "Good Mudding",
     "season": 8,
     "number": 5,
     "type": "regular",
-    "airdate": "2019-05-12",
+    "airdate": "2018-08-15",
     "airtime": "21:00",
-    "airstamp": "2019-05-13T01:00:00+00:00",
-    "runtime": 79,
+    "airstamp": "2018-08-16T01:00:00+00:00",
+    "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/196/491994.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/196/491994.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/164/411464.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/164/411464.jpg"
     },
-    "summary": "<p>Varys betrays his queen, and Daenerys brings her forces to King's Landing.</p>",
+    "summary": "<p>Harvey confronts his personal issues to defend his brother. Louis sacrifices for family.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/1623967"
+        "href": "https://api.tvmaze.com/episodes/1508236"
       }
     }
   },
   {
-    "id": 1623968,
-    "url": "https://www.tvmaze.com/episodes/1623968/game-of-thrones-8x06-the-iron-throne",
-    "name": "The Iron Throne",
+    "id": 1508706,
+    "url": "https://www.tvmaze.com/episodes/1508706/suits-8x06-cats-ballet-harvey-specter",
+    "name": "Cats, Ballet, Harvey Specter",
     "season": 8,
     "number": 6,
     "type": "regular",
-    "airdate": "2019-05-19",
+    "airdate": "2018-08-22",
     "airtime": "21:00",
-    "airstamp": "2019-05-20T01:00:00+00:00",
-    "runtime": 80,
+    "airstamp": "2018-08-23T01:00:00+00:00",
+    "runtime": 60,
     "image": {
-      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/198/495648.jpg",
-      "original": "https://static.tvmaze.com/uploads/images/original_untouched/198/495648.jpg"
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/165/413180.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/165/413180.jpg"
     },
-    "summary": "<p>In the aftermath of the devastating attack on King's Landing, Daenerys must face the survivors.</p>",
+    "summary": "<p>Harvey and Louis assess their relationship. Donna doubts Samantha's motives for helping her.</p>",
     "_links": {
       "self": {
-        "href": "https://api.tvmaze.com/episodes/1623968"
+        "href": "https://api.tvmaze.com/episodes/1508706"
+      }
+    }
+  },
+  {
+    "id": 1514601,
+    "url": "https://www.tvmaze.com/episodes/1514601/suits-8x07-sour-grapes",
+    "name": "Sour Grapes",
+    "season": 8,
+    "number": 7,
+    "type": "regular",
+    "airdate": "2018-08-29",
+    "airtime": "21:00",
+    "airstamp": "2018-08-30T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/165/414962.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/165/414962.jpg"
+    },
+    "summary": "<p>Donna's agreement forces Harvey to help David Fox. Alex comes to Zane's aid on a personal venture.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1514601"
+      }
+    }
+  },
+  {
+    "id": 1516228,
+    "url": "https://www.tvmaze.com/episodes/1516228/suits-8x08-coral-gables",
+    "name": "Coral Gables",
+    "season": 8,
+    "number": 8,
+    "type": "regular",
+    "airdate": "2018-09-05",
+    "airtime": "21:00",
+    "airstamp": "2018-09-06T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/166/416707.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/166/416707.jpg"
+    },
+    "summary": "<p>Harvey helps Samantha settle an old score. Louis faces a hurdle on the path to fatherhood.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1516228"
+      }
+    }
+  },
+  {
+    "id": 1521673,
+    "url": "https://www.tvmaze.com/episodes/1521673/suits-8x09-motion-to-delay",
+    "name": "Motion to Delay",
+    "season": 8,
+    "number": 9,
+    "type": "regular",
+    "airdate": "2018-09-12",
+    "airtime": "21:00",
+    "airstamp": "2018-09-13T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/167/419236.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/167/419236.jpg"
+    },
+    "summary": "<p>An old foe backs the firm into a corner. Samantha and Alex try to broker a peace between clients. </p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1521673"
+      }
+    }
+  },
+  {
+    "id": 1521832,
+    "url": "https://www.tvmaze.com/episodes/1521832/suits-8x10-managing-partner",
+    "name": "Managing Partner",
+    "season": 8,
+    "number": 10,
+    "type": "regular",
+    "airdate": "2018-09-19",
+    "airtime": "21:00",
+    "airstamp": "2018-09-20T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/168/421031.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/168/421031.jpg"
+    },
+    "summary": "<p>When Harvey and Zane can't stay on the sidelines, Donna does what's best for the firm.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1521832"
+      }
+    }
+  },
+  {
+    "id": 1587195,
+    "url": "https://www.tvmaze.com/episodes/1587195/suits-8x11-rocky-8",
+    "name": "Rocky 8",
+    "season": 8,
+    "number": 11,
+    "type": "regular",
+    "airdate": "2019-01-23",
+    "airtime": "22:00",
+    "airstamp": "2019-01-24T03:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/181/453294.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/181/453294.jpg"
+    },
+    "summary": "<p>Harvey laces up for a rematch against an old foe. Louis struggles to hold the reins of the firm.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1587195"
+      }
+    }
+  },
+  {
+    "id": 1589780,
+    "url": "https://www.tvmaze.com/episodes/1589780/suits-8x12-whale-hunt",
+    "name": "Whale Hunt",
+    "season": 8,
+    "number": 12,
+    "type": "regular",
+    "airdate": "2019-01-30",
+    "airtime": "22:00",
+    "airstamp": "2019-01-31T03:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/182/455274.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/182/455274.jpg"
+    },
+    "summary": "<p>Louis learns the finer points of managing Harvey; Alex is caught between Samantha and his wife</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1589780"
+      }
+    }
+  },
+  {
+    "id": 1596960,
+    "url": "https://www.tvmaze.com/episodes/1596960/suits-8x13-the-greater-good",
+    "name": "The Greater Good",
+    "season": 8,
+    "number": 13,
+    "type": "regular",
+    "airdate": "2019-02-06",
+    "airtime": "22:00",
+    "airstamp": "2019-02-07T03:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/182/457154.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/182/457154.jpg"
+    },
+    "summary": "<p>Harvey and Donna are caught in the crosshairs when Stu is blackmailed. Samantha revisits her past.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1596960"
+      }
+    }
+  },
+  {
+    "id": 1601417,
+    "url": "https://www.tvmaze.com/episodes/1601417/suits-8x14-peas-in-a-pod",
+    "name": "Peas in a Pod",
+    "season": 8,
+    "number": 14,
+    "type": "regular",
+    "airdate": "2019-02-13",
+    "airtime": "22:00",
+    "airstamp": "2019-02-14T03:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/183/459754.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/183/459754.jpg"
+    },
+    "summary": "<p>Harvey's forced to choose a side when Samantha and Scottie go toe-to-toe; Louis represents Lipschitz.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1601417"
+      }
+    }
+  },
+  {
+    "id": 1605634,
+    "url": "https://www.tvmaze.com/episodes/1605634/suits-8x15-stalking-horse",
+    "name": "Stalking Horse",
+    "season": 8,
+    "number": 15,
+    "type": "regular",
+    "airdate": "2019-02-20",
+    "airtime": "22:00",
+    "airstamp": "2019-02-21T03:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/184/462021.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/184/462021.jpg"
+    },
+    "summary": "<p>Donna's relationship complicates a deal for Harvey and Alex. Samantha helps Louis get justice.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1605634"
+      }
+    }
+  },
+  {
+    "id": 1605635,
+    "url": "https://www.tvmaze.com/episodes/1605635/suits-8x16-harvey",
+    "name": "Harvey",
+    "season": 8,
+    "number": 16,
+    "type": "regular",
+    "airdate": "2019-02-27",
+    "airtime": "22:00",
+    "airstamp": "2019-02-28T03:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/185/464959.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/185/464959.jpg"
+    },
+    "summary": "<p>When Hardman comes looking for retribution, the firm rallies to Harvey's defense.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1605635"
+      }
+    }
+  },
+  {
+    "id": 1648832,
+    "url": "https://www.tvmaze.com/episodes/1648832/suits-9x01-everythings-changed",
+    "name": "Everything's Changed",
+    "season": 9,
+    "number": 1,
+    "type": "regular",
+    "airdate": "2019-07-17",
+    "airtime": "21:00",
+    "airstamp": "2019-07-18T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/205/513637.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/205/513637.jpg"
+    },
+    "summary": "<p>Harvey and Samantha fight to keep Zane's name on the wall; Alex warns Louis of the consequences.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1648832"
+      }
+    }
+  },
+  {
+    "id": 1678136,
+    "url": "https://www.tvmaze.com/episodes/1678136/suits-9x02-special-master",
+    "name": "Special Master",
+    "season": 9,
+    "number": 2,
+    "type": "regular",
+    "airdate": "2019-07-24",
+    "airtime": "21:00",
+    "airstamp": "2019-07-25T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/206/515479.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/206/515479.jpg"
+    },
+    "summary": "<p>The firm faces the repercussions of their actions. Samantha enlists Katrina to help an old friend.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1678136"
+      }
+    }
+  },
+  {
+    "id": 1684219,
+    "url": "https://www.tvmaze.com/episodes/1684219/suits-9x03-windmills",
+    "name": "Windmills",
+    "season": 9,
+    "number": 3,
+    "type": "regular",
+    "airdate": "2019-07-31",
+    "airtime": "21:00",
+    "airstamp": "2019-08-01T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/206/517376.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/206/517376.jpg"
+    },
+    "summary": "<p>Harvey takes on a new case in order to send Faye a message; Louis is presented with a new opportunity.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1684219"
+      }
+    }
+  },
+  {
+    "id": 1684220,
+    "url": "https://www.tvmaze.com/episodes/1684220/suits-9x04-cairo",
+    "name": "Cairo",
+    "season": 9,
+    "number": 4,
+    "type": "regular",
+    "airdate": "2019-08-07",
+    "airtime": "21:00",
+    "airstamp": "2019-08-08T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/207/518970.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/207/518970.jpg"
+    },
+    "summary": "<p>Faye decides to take action against Harvey and Donna's relationship; Harvey looks to impress Donna's father.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1684220"
+      }
+    }
+  },
+  {
+    "id": 1691223,
+    "url": "https://www.tvmaze.com/episodes/1691223/suits-9x05-if-the-shoe-fits",
+    "name": "If the Shoe Fits",
+    "season": 9,
+    "number": 5,
+    "type": "regular",
+    "airdate": "2019-08-14",
+    "airtime": "21:00",
+    "airstamp": "2019-08-15T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/208/520497.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/208/520497.jpg"
+    },
+    "summary": "<p>Samantha gets caught in the middle when Mike picks a fight with Harvey.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1691223"
+      }
+    }
+  },
+  {
+    "id": 1696271,
+    "url": "https://www.tvmaze.com/episodes/1696271/suits-9x06-whatever-it-takes",
+    "name": "Whatever It Takes",
+    "season": 9,
+    "number": 6,
+    "type": "regular",
+    "airdate": "2019-08-21",
+    "airtime": "21:00",
+    "airstamp": "2019-08-22T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/208/521831.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/208/521831.jpg"
+    },
+    "summary": "<p>Harvey makes a play to get Samantha's job back. Katrina faces off against an old friend.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1696271"
+      }
+    }
+  },
+  {
+    "id": 1701899,
+    "url": "https://www.tvmaze.com/episodes/1701899/suits-9x07-scenic-route",
+    "name": "Scenic Route",
+    "season": 9,
+    "number": 7,
+    "type": "regular",
+    "airdate": "2019-09-04",
+    "airtime": "21:00",
+    "airstamp": "2019-09-05T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/210/525398.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/210/525398.jpg"
+    },
+    "summary": "<p>Harvey and Samantha go on a road trip. Louis gets in over his head with a potential client.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1701899"
+      }
+    }
+  },
+  {
+    "id": 1710096,
+    "url": "https://www.tvmaze.com/episodes/1710096/suits-9x08-prisoners-dilemma",
+    "name": "Prisoner's Dilemma",
+    "season": 9,
+    "number": 8,
+    "type": "regular",
+    "airdate": "2019-09-11",
+    "airtime": "21:00",
+    "airstamp": "2019-09-12T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/211/527531.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/211/527531.jpg"
+    },
+    "summary": "<p>An old foe forces Harvey to account for past actions. Esther has a problem only Louis can solve.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1710096"
+      }
+    }
+  },
+  {
+    "id": 1714618,
+    "url": "https://www.tvmaze.com/episodes/1714618/suits-9x09-thunder-away",
+    "name": "Thunder Away",
+    "season": 9,
+    "number": 9,
+    "type": "regular",
+    "airdate": "2019-09-18",
+    "airtime": "21:00",
+    "airstamp": "2019-09-19T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/211/529715.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/211/529715.jpg"
+    },
+    "summary": "<p>Mike helps Harvey get over a personal loss; an attempt to take down Faye becomes complicated.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1714618"
+      }
+    }
+  },
+  {
+    "id": 1715345,
+    "url": "https://www.tvmaze.com/episodes/1715345/suits-9x10-one-last-con",
+    "name": "One Last Con",
+    "season": 9,
+    "number": 10,
+    "type": "regular",
+    "airdate": "2019-09-25",
+    "airtime": "21:00",
+    "airstamp": "2019-09-26T01:00:00+00:00",
+    "runtime": 60,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/212/531865.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/212/531865.jpg"
+    },
+    "summary": "<p>Facing its potential destruction, the partners must go all in to save the firm.</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/1715345"
       }
     }
   }

@@ -1,21 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.background {
+  margin: 0;
+  background-color: #f3f3f3;
+}
+.cards {
+  display: grid;
+  grid-template-columns: repeat(2, 890px);
+  gap: 40px;
+  padding: 0 10px;
+  align-content: center;
+  place-content: center;
+}
+.header {
+  background-color: grey;
+  color: white;
+  height: 80px;
+  margin-bottom: 60px;
+  font-family: "Baloo Tammudu 2", cursive;
+  padding-left: 30px;
+  padding-top: 20px;
+}
 .episodesmain {
   display: flex;
-  width: 800px;
-  margin-bottom: 20px;
+  width: 890px;
+  margin-bottom: 15px;
   background-color: white;
-  height: 275px;
+  height: 425px;
   border-radius: 15px;
-  margin-left: 30px;
+
   color: rgb(82, 82, 82);
   font-family: "Baloo Tammudu 2", cursive;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.episodesmain:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
 }
 img {
-  width: 200px;
+  width: 450px;
   border-bottom-left-radius: 15px;
   border-top-left-radius: 15px;
 }
 main {
-  background-color: #edf2f8;
+  background-color: #f3f3f3;
   margin: 0;
 }
 h2 {
