@@ -3,7 +3,7 @@ import EpisodesStructure from "./episodes-structure";
 
 function Episodes(): JSX.Element {
   return (
-    <div className="episodemain">
+    <div className="cards">
       {episodes.map((episodeObject) => (
         <EpisodesStructure
           key={episodeObject.id}
