@@ -1,27 +1,27 @@
-*{
-    margin: 0;
-    padding: 0;
+* {
+  margin: 0;
+  padding: 0;
 }
-.background{
-    margin: 0;
-    background-color: #f3f3f3
+.background {
+  margin: 0;
+  background-color: #f3f3f3;
 }
-.cards{
-    display: grid;
-    grid-template-columns: repeat(2, 890px);
-    gap: 40px;
-    padding: 0 10px;
-    align-content: center;
-    place-content: center;
+.cards {
+  display: grid;
+  grid-template-columns: repeat(2, 890px);
+  gap: 40px;
+  padding: 0 10px;
+  align-content: center;
+  place-content: center;
 }
-.header{
-    background-color: grey;
-    color: white;
-    height: 80px;
-    margin-bottom: 60px;
-    font-family: "Baloo Tammudu 2", cursive;
-    padding-left: 30px;
-    padding-top: 20px;
+.header {
+  background-color: grey;
+  color: white;
+  height: 80px;
+  margin-bottom: 60px;
+  font-family: "Baloo Tammudu 2", cursive;
+  padding-left: 30px;
+  padding-top: 20px;
 }
 .episodesmain {
   display: flex;
@@ -30,13 +30,13 @@
   background-color: white;
   height: 425px;
   border-radius: 15px;
-  
+
   color: rgb(82, 82, 82);
   font-family: "Baloo Tammudu 2", cursive;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
-.episodesmain:hover{
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4)
+.episodesmain:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
 }
 img {
   width: 450px;
@@ -50,10 +50,8 @@ main {
 h2 {
   font-size: 25px;
   text-align: center;
-  
 }
 .summary {
   font-size: 15px;
   margin: 0 10px;
-
 }
