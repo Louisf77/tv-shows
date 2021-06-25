@@ -55,7 +55,7 @@ h2 {
   font-size: 15px;
   margin: 0 10px;
 }
-@media screen and (max-device-width: 800px){
+@media screen and (max-device-width: 800px) {
   .cards {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
