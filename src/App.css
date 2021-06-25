@@ -19,7 +19,7 @@
   color: white;
   height: 80px;
   margin-bottom: 60px;
-  font-family: "Baloo Tammudu 2", cursive;
+  font-family: "Baloo Tammudu 2";
   padding-left: 30px;
   padding-top: 20px;
 }
@@ -30,9 +30,8 @@
   background-color: white;
   height: 425px;
   border-radius: 15px;
-
   color: rgb(82, 82, 82);
-  font-family: "Baloo Tammudu 2", cursive;
+  font-family: "Baloo Tammudu 2";
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 .episodesmain:hover {
@@ -55,6 +54,7 @@ h2 {
   font-size: 15px;
   margin: 0 10px;
 }
+
 @media screen and (max-device-width: 800px) {
   .cards {
     display: grid;
