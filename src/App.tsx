@@ -11,7 +11,7 @@ function App(): JSX.Element {
     <div className = 'background'>
     <Header />
     <main>
-      <div className = 'cards'>
+      <div className = 'maincontent'>
       <Episodes />
       </div>
     </main>
