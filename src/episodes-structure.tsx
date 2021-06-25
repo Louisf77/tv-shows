@@ -20,7 +20,7 @@ interface IEpisode {
 function EpisodesStructure(props: IEpisode): JSX.Element {
   return (
     <div className="episodesmain">
-      <img src={props.image.medium} alt="" />
+      <img src={props.image.original} alt="" />
       <div className="episodes">
         <h2>
           {props.name} - S{props.season.toString().padStart(2, "0")}
