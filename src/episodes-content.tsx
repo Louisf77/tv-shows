@@ -1,22 +1,28 @@
 import episodes from "./episodes.json";
 import EpisodesStructure from "./episodes-structure";
 import { useState } from "react";
+import epsearch from "./episodecount";
 
 function Episodes(): JSX.Element {
   const [searchTerm, setSearchTerm] = useState("");
+  
   return (
     <>
-      <input
-        value={searchTerm}
-        onChange={(event) => {
-          setSearchTerm(event.target.value);
-        }}
-      />
-
+      <div className = 'search menu'>
+        <input
+          value={searchTerm}
+          onChange={(event) => {
+            setSearchTerm(event.target.value);
+          }}
+        />
+        <div className= 'searchresults'>
+        Displaying {epsearch(searchTerm) === episodes.length ? "all " : epsearch(searchTerm)+"/"+episodes.length} episodes
+        </div>
+      </div>
       <div className="cards">
         {episodes
           .filter((episode) =>
-            episode.name.toLowerCase().includes(searchTerm.toLowerCase())
+            episode.name.toLowerCase().includes(searchTerm.toLowerCase()) || episode.summary.toLowerCase().includes(searchTerm.toLowerCase())
           )
           .map((episodeObject) => (
             <EpisodesStructure
