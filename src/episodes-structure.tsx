@@ -17,7 +17,7 @@ interface IEpisode {
   _links: { self: { href: string } };
 }
 
-function EpisodesStructure( props: IEpisode): JSX.Element {
+function EpisodesStructure(props: IEpisode): JSX.Element {
   return (
     <div className="episodesmain">
       <img src={props.image.original} alt="" />

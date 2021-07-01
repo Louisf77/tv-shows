@@ -5,24 +5,30 @@ import epsearch from "./episodecount";
 
 function Episodes(): JSX.Element {
   const [searchTerm, setSearchTerm] = useState("");
-  
+
   return (
     <>
-      <div className = 'search menu'>
+      <div className="search menu">
         <input
           value={searchTerm}
           onChange={(event) => {
             setSearchTerm(event.target.value);
           }}
         />
-        <div className= 'searchresults'>
-        Displaying {epsearch(searchTerm) === episodes.length ? "all " : epsearch(searchTerm)+"/"+episodes.length} episodes
+        <div className="searchresults">
+          Displaying{" "}
+          {epsearch(searchTerm) === episodes.length
+            ? "all "
+            : epsearch(searchTerm) + "/" + episodes.length}{" "}
+          episodes
         </div>
       </div>
       <div className="cards">
         {episodes
-          .filter((episode) =>
-            episode.name.toLowerCase().includes(searchTerm.toLowerCase()) || episode.summary.toLowerCase().includes(searchTerm.toLowerCase())
+          .filter(
+            (episode) =>
+              episode.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
+              episode.summary.toLowerCase().includes(searchTerm.toLowerCase())
           )
           .map((episodeObject) => (
             <EpisodesStructure
