@@ -18,7 +18,7 @@
   background-color: grey;
   color: white;
   height: 80px;
-  margin-bottom: 60px;
+  margin-bottom: 30px;
   font-family: "Baloo Tammudu 2";
   padding-left: 30px;
   padding-top: 20px;
@@ -55,6 +55,26 @@ h2 {
   margin: 0 10px;
 }
 
+.searchmenu {
+  display: flex;
+  font-family: "Baloo Tammudu 2";
+  align-content: center;
+}
+
+input {
+  height: 50px;
+  width: 300px;
+  display: block;
+  margin: 20px;
+  font-family: "Baloo Tammudu 2";
+  font-size: 20px;
+}
+.searchresults {
+  height: 90px;
+  line-height: 90px;
+  color: rgb(82, 82, 82);
+  font-size: 15px;
+}
 @media screen and (max-device-width: 800px) {
   .cards {
     display: grid;
