@@ -8,8 +8,10 @@ function Episodes(): JSX.Element {
 
   return (
     <>
-      <div className="search menu">
+      <div className="searchmenu">
         <input
+          type= "search"
+          placeholder="Use a keyword to search....."
           value={searchTerm}
           onChange={(event) => {
             setSearchTerm(event.target.value);
@@ -19,8 +21,7 @@ function Episodes(): JSX.Element {
           Displaying{" "}
           {epsearch(searchTerm) === episodes.length
             ? "all "
-            : epsearch(searchTerm) + "/" + episodes.length}{" "}
-          episodes
+            : epsearch(searchTerm) + "/" + episodes.length+ " "}episodes
         </div>
       </div>
       <div className="cards">
