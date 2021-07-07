@@ -1,10 +1,8 @@
-import episodes from "./episodes.json";
-import Episodes from "./episodes-content";
 import "./App.css";
-import Header from "./header";
+import Header from "./components/header";
+import FullContent from "./components/episodes-content";
 
-console.log(`Imported ${episodes.length} episode(s)`);
-console.log(`First episode's name is ${episodes[0].name}`);
+
 
 function App(): JSX.Element {
   return (
@@ -12,7 +10,7 @@ function App(): JSX.Element {
       <Header />
       <main>
         <div className="maincontent">
-          <Episodes />
+          <FullContent />
         </div>
       </main>
     </div>

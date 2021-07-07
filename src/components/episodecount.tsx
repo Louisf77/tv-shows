@@ -1,4 +1,4 @@
-import episodes from "./episodes.json";
+import episodes from "../utils/episodes.json";
 
 export default function epsearch(term: string): number {
   let total = 0;
