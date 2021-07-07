@@ -1,8 +1,6 @@
 import "./App.css";
 import Header from "./components/header";
-import FullContent from "./components/episodes-content";
-
-
+import FullContent from "./components/fullcontent";
 
 function App(): JSX.Element {
   return (
