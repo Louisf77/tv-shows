@@ -1,11 +1,11 @@
-import episodes from "../utils/episodes.json";
+import { epSearchProp } from "../utils/Types";
 
-export default function epsearch(term: string): number {
+export default function epsearch({searchTerm,episodes}:epSearchProp): number {
   let total = 0;
   for (const ep of episodes) {
     if (
-      ep.name.toLowerCase().includes(term.toLowerCase()) ||
-      ep.summary.toLowerCase().includes(term.toLowerCase())
+      ep.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
+      ep.summary.toLowerCase().includes(searchTerm.toLowerCase())
     ) {
       total += 1;
     }

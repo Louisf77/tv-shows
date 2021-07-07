@@ -1,14 +1,10 @@
 import EpisodesStructure from "./episodes-structure";
-import episodes from "../utils/episodes.json";
-
-interface EpisodesProp {
-  searchTerm: string;
-  dropTerm: string;
-}
+import { EpisodesProp } from "../utils/Types";
 
 export default function Episodes({
   searchTerm,
   dropTerm,
+  episodes
 }: EpisodesProp): JSX.Element {
   return (
     <div className="cards">
