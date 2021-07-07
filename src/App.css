@@ -76,16 +76,14 @@ input {
   font-size: 15px;
 }
 
-.navbar{
+.navbar {
   display: flex;
-
 }
-.dropdown{
+.dropdown {
   align-items: center;
   height: 50px;
   line-height: 40px;
   margin: 20px 10px;
- 
 }
 
 .dropdown button {
@@ -95,12 +93,11 @@ input {
   height: 30;
 }
 
-.dropdown select{
+.dropdown select {
   height: 40px;
   font-family: "Baloo Tammudu 2";
   font-size: 15px;
   padding: 3px;
-  
 }
 
 @media screen and (max-device-width: 800px) {
