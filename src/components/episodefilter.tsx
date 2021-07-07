@@ -4,7 +4,7 @@ import { EpisodesProp } from "../utils/Types";
 export default function Episodes({
   searchTerm,
   dropTerm,
-  episodes
+  episodes,
 }: EpisodesProp): JSX.Element {
   return (
     <div className="cards">

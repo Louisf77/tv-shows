@@ -1,11 +1,10 @@
 import epsearch from "./episodecount";
 import { SearchBarProps } from "../utils/Types";
 
-
 export default function SearchBar({
   searchTerm,
   setSearchTerm,
-  episodes
+  episodes,
 }: SearchBarProps): JSX.Element {
   return (
     <>
@@ -20,9 +19,9 @@ export default function SearchBar({
         />
         <div className="searchresults">
           Displaying{" "}
-          {epsearch({searchTerm,episodes}) === episodes.length
+          {epsearch({ searchTerm, episodes }) === episodes.length
             ? "all "
-            : epsearch({searchTerm,episodes}) + "/" + episodes.length + " "}
+            : epsearch({ searchTerm, episodes }) + "/" + episodes.length + " "}
           episodes
         </div>
       </div>

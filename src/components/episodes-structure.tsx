@@ -1,4 +1,4 @@
-import {IEpisode} from "../utils/Types"
+import { IEpisode } from "../utils/Types";
 
 function EpisodesStructure(props: IEpisode): JSX.Element {
   return (

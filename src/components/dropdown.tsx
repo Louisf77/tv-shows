@@ -4,7 +4,7 @@ import { DropdownProps } from "../utils/Types";
 export default function Dropdown({
   dropTerm,
   setDropTerm,
-  episodes
+  episodes,
 }: DropdownProps): JSX.Element {
   const handleResetDrop = () => setDropTerm("");
   return (

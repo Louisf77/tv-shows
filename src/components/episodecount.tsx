@@ -1,6 +1,9 @@
 import { epSearchProp } from "../utils/Types";
 
-export default function epsearch({searchTerm,episodes}:epSearchProp): number {
+export default function epsearch({
+  searchTerm,
+  episodes,
+}: epSearchProp): number {
   let total = 0;
   for (const ep of episodes) {
     if (
