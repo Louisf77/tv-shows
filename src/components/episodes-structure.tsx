@@ -20,7 +20,14 @@ interface IEpisode {
 function EpisodesStructure(props: IEpisode): JSX.Element {
   return (
     <div className="episodesmain">
-      <img src={props.image.original} alt="" />
+      {props.image.original === "null" ? (
+        <img
+          src="https://socialistmodernism.com/wp-content/uploads/2017/07/placeholder-image.png?w=640"
+          alt=""
+        />
+      ) : (
+        <img src={props.image.original} alt="" />
+      )}
       <div className="episodes">
         <h2>
           {props.name} - S{props.season.toString().padStart(2, "0")}

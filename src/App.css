@@ -62,7 +62,7 @@ h2 {
 }
 
 input {
-  height: 50px;
+  height: 40px;
   width: 300px;
   display: block;
   margin: 20px;
@@ -75,6 +75,31 @@ input {
   color: rgb(82, 82, 82);
   font-size: 15px;
 }
+
+.navbar {
+  display: flex;
+}
+.dropdown {
+  align-items: center;
+  height: 50px;
+  line-height: 40px;
+  margin: 20px 10px;
+}
+
+.dropdown button {
+  margin-left: 5px;
+  font-family: "Baloo Tammudu 2";
+  padding: 3px;
+  height: 30;
+}
+
+.dropdown select {
+  height: 40px;
+  font-family: "Baloo Tammudu 2";
+  font-size: 15px;
+  padding: 3px;
+}
+
 @media screen and (max-device-width: 800px) {
   .cards {
     display: grid;
