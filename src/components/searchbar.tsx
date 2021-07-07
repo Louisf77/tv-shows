@@ -1,4 +1,4 @@
-import epsearch from "./episodecount";
+import epsearch from "../utils/episodecount";
 import { SearchBarProps } from "../utils/Types";
 
 export default function SearchBar({

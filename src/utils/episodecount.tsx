@@ -1,4 +1,4 @@
-import { epSearchProp } from "../utils/Types";
+import { epSearchProp } from "./Types";
 
 export default function epsearch({
   searchTerm,
