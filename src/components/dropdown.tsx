@@ -1,14 +1,10 @@
 import EpisodeFormat from "../utils/seasoncodeformat";
-import episodes from "../utils/episodes.json";
-
-interface DropdownProps {
-  dropTerm: string;
-  setDropTerm(dropTerm: string): void;
-}
+import { DropdownProps } from "../utils/Types";
 
 export default function Dropdown({
   dropTerm,
   setDropTerm,
+  episodes,
 }: DropdownProps): JSX.Element {
   const handleResetDrop = () => setDropTerm("");
   return (

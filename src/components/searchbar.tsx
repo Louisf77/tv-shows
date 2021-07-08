@@ -1,14 +1,10 @@
-import episodes from "../utils/episodes.json";
-import epsearch from "./episodecount";
-
-interface SearchBarProps {
-  searchTerm: string;
-  setSearchTerm(searchTerm: string): void;
-}
+import epsearch from "../utils/episodecount";
+import { SearchBarProps } from "../utils/Types";
 
 export default function SearchBar({
   searchTerm,
   setSearchTerm,
+  episodes,
 }: SearchBarProps): JSX.Element {
   return (
     <>
@@ -23,9 +19,9 @@ export default function SearchBar({
         />
         <div className="searchresults">
           Displaying{" "}
-          {epsearch(searchTerm) === episodes.length
+          {epsearch({ searchTerm, episodes }) === episodes.length
             ? "all "
-            : epsearch(searchTerm) + "/" + episodes.length + " "}
+            : epsearch({ searchTerm, episodes }) + "/" + episodes.length + " "}
           episodes
         </div>
       </div>
