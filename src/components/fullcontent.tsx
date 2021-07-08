@@ -9,7 +9,7 @@ function FullContent(): JSX.Element {
   const [searchTerm, setSearchTerm] = useState("");
   const [dropTerm, setDropTerm] = useState("");
   const [episodes, setEpisodes] = useState<IEpisode[]>([]);
-  const [show,setShow] = useState<number>(172)
+  const [show, setShow] = useState<number>(172);
   useEffect(() => {
     const getEpisodes = async () => {
       const res = await fetch(`https://api.tvmaze.com/shows/${show}/episodes`);
@@ -23,10 +23,7 @@ function FullContent(): JSX.Element {
   return (
     <>
       <div className="navbar">
-        <ShowSelector 
-          show={show}
-          setShow={setShow}
-          />
+        <ShowSelector show={show} setShow={setShow} />
         <Dropdown
           episodes={episodes}
           dropTerm={dropTerm}

@@ -1,10 +1,12 @@
-import shows from "../utils/shows.json"
+import shows from "../utils/shows.json";
 import { ShowProps } from "../utils/Types";
 
-export default function ShowSelector({setShow,show}:ShowProps) : JSX.Element{
-
-    return (
-        <>
+export default function ShowSelector({
+  setShow,
+  show,
+}: ShowProps): JSX.Element {
+  return (
+    <>
       <div className="dropdown">
         <select
           name="drop"
@@ -14,14 +16,15 @@ export default function ShowSelector({setShow,show}:ShowProps) : JSX.Element{
             setShow(parseInt(e.target.value));
           }}
         >
-          {shows.sort((a, b) => a.name.localeCompare(b.name)).map((show) => (
-            <option value={show.id} key={show.id}>
-              {show.name}
-            </option>
-          ))}
+          {shows
+            .sort((a, b) => a.name.localeCompare(b.name))
+            .map((show) => (
+              <option value={show.id} key={show.id}>
+                {show.name}
+              </option>
+            ))}
         </select>
-        </div>
-        </>
-    )
-
+      </div>
+    </>
+  );
 }

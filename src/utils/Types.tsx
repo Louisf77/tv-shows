@@ -39,8 +39,7 @@ export interface SearchBarProps {
   episodes: IEpisode[];
 }
 
-export interface ShowProps{
-  show:number
-  setShow(show:number):void
-
+export interface ShowProps {
+  show: number;
+  setShow(show: number): void;
 }
