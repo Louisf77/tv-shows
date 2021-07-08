@@ -38,3 +38,9 @@ export interface SearchBarProps {
   setSearchTerm(searchTerm: string): void;
   episodes: IEpisode[];
 }
+
+export interface ShowProps{
+  show:number
+  setShow(show:number):void
+
+}
