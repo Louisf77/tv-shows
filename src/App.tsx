@@ -1,6 +1,6 @@
 import "./App.css";
-import Header from "./components/header";
-import FullContent from "./components/fullcontent";
+import Header from "./components/Header";
+import FullContentEpisodes from "./components/FullContent";
 
 function App(): JSX.Element {
   return (
@@ -8,7 +8,7 @@ function App(): JSX.Element {
       <Header />
       <main>
         <div className="maincontent">
-          <FullContent />
+          <FullContentEpisodes />
         </div>
       </main>
     </div>

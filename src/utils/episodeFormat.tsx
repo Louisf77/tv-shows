@@ -1,4 +1,4 @@
-export default function EpisodeFormat(
+export default function episodeFormat(
   season: number,
   show: number,
   name: string

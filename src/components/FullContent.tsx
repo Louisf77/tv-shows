@@ -1,11 +1,11 @@
 import { useState, useEffect } from "react";
-import Dropdown from "./dropdown";
-import SearchBar from "./searchbar";
-import Episodes from "./episodefilter";
+import Dropdown from "./episodelisting/Dropdown";
+import SearchBar from "./episodelisting/SearchBar";
+import Episodes from "./episodelisting/EpisodeFilter";
 import { IEpisode } from "../utils/Types";
-import ShowSelector from "./showselector";
+import ShowSelector from "./episodelisting/ShowSelector";
 
-function FullContent(): JSX.Element {
+export default function FullContentEpisodes(): JSX.Element {
   const [searchTerm, setSearchTerm] = useState("");
   const [dropTerm, setDropTerm] = useState("");
   const [episodes, setEpisodes] = useState<IEpisode[]>([]);
@@ -15,7 +15,6 @@ function FullContent(): JSX.Element {
       const res = await fetch(`https://api.tvmaze.com/shows/${show}/episodes`);
       const jsonBody = await res.json();
       setEpisodes(jsonBody);
-      console.log("test");
     };
 
     getEpisodes();
@@ -43,5 +42,3 @@ function FullContent(): JSX.Element {
     </>
   );
 }
-
-export default FullContent;

@@ -1,4 +1,4 @@
-import { IEpisode } from "../utils/Types";
+import { IEpisode } from "../../utils/Types";
 
 function EpisodesStructure(props: IEpisode): JSX.Element {
   return (
@@ -9,7 +9,7 @@ function EpisodesStructure(props: IEpisode): JSX.Element {
           alt=""
         />
       ) : (
-        <img src={props.image.original} alt="" />
+        <img src={props.image?.original} alt="" />
       )}
       <div className="episodes">
         <h2>
@@ -17,7 +17,7 @@ function EpisodesStructure(props: IEpisode): JSX.Element {
           {props.number.toString().padStart(2, "0")}
         </h2>
         <div className="summary">
-          {props.summary.replace(/<p>/g, "").replace(/<\/p>/g, "")}
+          {props.summary?.replace(/<p>/g, "").replace(/<\/p>/g, "")}
         </div>
       </div>
     </div>

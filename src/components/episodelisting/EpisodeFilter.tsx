@@ -1,5 +1,5 @@
-import EpisodesStructure from "./episodes-structure";
-import { EpisodesProp } from "../utils/Types";
+import EpisodesStructure from "./EpisodesStructure";
+import { EpisodesProp } from "../../utils/Types";
 
 export default function Episodes({
   searchTerm,
