@@ -45,14 +45,14 @@ export interface ShowProps {
 }
 
 export interface ShowListProps {
-  name: string
+  name: string;
   image: {
-    medium: string
-    original: string
-  }
-  summary:string
-  genre:string
-  status:string
-  rating:number
-  runtime:number
+    medium: string;
+    original: string;
+  };
+  summary: string;
+  genre: string;
+  status: string;
+  rating: number;
+  runtime: number;
 }
