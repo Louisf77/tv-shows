@@ -1,4 +1,4 @@
-import EpisodesStructure from "./episodes-structure";
+import EpisodesStructure from "./EpisodesStructure";
 import { EpisodesProp } from "../../utils/Types";
 
 export default function Episodes({

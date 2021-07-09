@@ -1,6 +1,6 @@
 import { epSearchProp } from "./Types";
 
-export default function epsearch({
+export default function epSearch({
   searchTerm,
   episodes,
 }: epSearchProp): number {

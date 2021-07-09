@@ -1,4 +1,4 @@
-import epsearch from "../../utils/episodecount";
+import epSearch from "../../utils/episodeCount";
 import { SearchBarProps } from "../../utils/Types";
 
 export default function SearchBar({
@@ -19,9 +19,9 @@ export default function SearchBar({
         />
         <div className="searchresults">
           Displaying{" "}
-          {epsearch({ searchTerm, episodes }) === episodes.length
+          {epSearch({ searchTerm, episodes }) === episodes.length
             ? "all "
-            : epsearch({ searchTerm, episodes }) + "/" + episodes.length + " "}
+            : epSearch({ searchTerm, episodes }) + "/" + episodes.length + " "}
           episodes
         </div>
       </div>

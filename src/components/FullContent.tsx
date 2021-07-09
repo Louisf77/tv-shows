@@ -1,11 +1,11 @@
 import { useState, useEffect } from "react";
-import Dropdown from "./episodelisting/dropdown";
-import SearchBar from "./episodelisting/searchbar";
-import Episodes from "./episodelisting/episodefilter";
+import Dropdown from "./episodelisting/Dropdown";
+import SearchBar from "./episodelisting/SearchBar";
+import Episodes from "./episodelisting/EpisodeFilter";
 import { IEpisode } from "../utils/Types";
-import ShowSelector from "./episodelisting/showselector";
+import ShowSelector from "./episodelisting/ShowSelector";
 
-function FullContent(): JSX.Element {
+export default function FullContentEpisodes(): JSX.Element {
   const [searchTerm, setSearchTerm] = useState("");
   const [dropTerm, setDropTerm] = useState("");
   const [episodes, setEpisodes] = useState<IEpisode[]>([]);
@@ -43,4 +43,4 @@ function FullContent(): JSX.Element {
   );
 }
 
-export default FullContent;
+
