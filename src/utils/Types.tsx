@@ -43,3 +43,16 @@ export interface ShowProps {
   show: number;
   setShow(show: number): void;
 }
+
+export interface ShowListProps {
+  name: string
+  image: {
+    medium: string
+    original: string
+  }
+  summary:string
+  genre:string
+  status:string
+  rating:number
+  runtime:number
+}

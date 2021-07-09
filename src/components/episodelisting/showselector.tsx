@@ -1,5 +1,5 @@
-import shows from "../utils/shows.json";
-import { ShowProps } from "../utils/Types";
+import shows from "../../utils/shows.json";
+import { ShowProps } from "../../utils/Types";
 
 export default function ShowSelector({
   setShow,

@@ -1,9 +1,9 @@
 import { useState, useEffect } from "react";
-import Dropdown from "./dropdown";
-import SearchBar from "./searchbar";
-import Episodes from "./episodefilter";
+import Dropdown from "./episodelisting/dropdown";
+import SearchBar from "./episodelisting/searchbar";
+import Episodes from "./episodelisting/episodefilter";
 import { IEpisode } from "../utils/Types";
-import ShowSelector from "./showselector";
+import ShowSelector from "./episodelisting/showselector";
 
 function FullContent(): JSX.Element {
   const [searchTerm, setSearchTerm] = useState("");
@@ -15,7 +15,6 @@ function FullContent(): JSX.Element {
       const res = await fetch(`https://api.tvmaze.com/shows/${show}/episodes`);
       const jsonBody = await res.json();
       setEpisodes(jsonBody);
-      console.log("test");
     };
 
     getEpisodes();
