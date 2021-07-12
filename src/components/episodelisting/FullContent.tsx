@@ -6,23 +6,26 @@ import { IEpisode } from "../../utils/Types";
 import ShowSelector from "./ShowSelector";
 import { FullContentEpisodesProps } from "../../utils/Types";
 
-export default function FullContentEpisodes({selectedShow}:FullContentEpisodesProps): JSX.Element {
+export default function FullContentEpisodes({
+  selectedShow,
+}: FullContentEpisodesProps): JSX.Element {
   const [searchTerm, setSearchTerm] = useState("");
   const [dropTerm, setDropTerm] = useState("");
   const [episodes, setEpisodes] = useState<IEpisode[]>([]);
   const [show, setShow] = useState<number>(selectedShow);
- 
-  
+
   useEffect(() => {
     const getEpisodes = async () => {
-      const res = await fetch(`https://api.tvmaze.com/shows/${selectedShow}/episodes`);
+      const res = await fetch(
+        `https://api.tvmaze.com/shows/${selectedShow}/episodes`
+      );
       const jsonBody = await res.json();
       setEpisodes(jsonBody);
     };
 
     getEpisodes();
   }, [selectedShow]);
-  
+
   return (
     <>
       <div className="navbar">
@@ -44,7 +47,6 @@ export default function FullContentEpisodes({selectedShow}:FullContentEpisodesPr
         dropTerm={dropTerm}
       />
       {console.log(show)}
-    
     </>
   );
 }

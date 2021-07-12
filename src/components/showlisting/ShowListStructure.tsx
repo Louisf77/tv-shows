@@ -9,12 +9,15 @@ export default function ShowListStructure({
   genres,
   status,
   rating,
-  runtime,id
+  runtime,
+  id,
 }: ShowListProps): JSX.Element {
-  const setSelectedShow = useContext(showContext)
-  const handleSetSelectedShow = () => {setSelectedShow(id)}
+  const setSelectedShow = useContext(showContext);
+  const handleSetSelectedShow = () => {
+    setSelectedShow(id);
+  };
   return (
-    <div className="showcards" onClick={handleSetSelectedShow} >
+    <div className="showcards" onClick={handleSetSelectedShow}>
       <div className="showheader">{name}</div>
       <img src={image.medium} alt="" />
       <div className="showcontent">
@@ -23,7 +26,7 @@ export default function ShowListStructure({
           <ul>
             <li>
               <b>Rating: </b>
-              {rating.average === null ? `N/A` :rating.average}
+              {rating.average === null ? `N/A` : rating.average}
             </li>
             <li>
               <b>Genres:</b>

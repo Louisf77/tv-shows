@@ -1,6 +1,9 @@
 import { ShowCountProps } from "./Types";
 
-export default function showCount({shows,showSearchTerm}:ShowCountProps): number {
+export default function showCount({
+  shows,
+  showSearchTerm,
+}: ShowCountProps): number {
   let total = 0;
   for (const show of shows) {
     if (
