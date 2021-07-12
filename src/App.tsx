@@ -24,9 +24,7 @@ function App(): JSX.Element {
         </main>
       </showContext.Provider>
     </div>
-    
   );
-  
 }
 
 export default App;

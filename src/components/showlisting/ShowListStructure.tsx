@@ -21,7 +21,10 @@ export default function ShowListStructure({
       <div className="showheader">{name}</div>
       <img src={image.medium} alt="" />
       <div className="showcontent">
-        <div className="showdescription">{summary?.replace(/<p>|<b>|<\/p>|<\/b>|<i>|<\/i>/g, "").slice(0,500)}....</div>
+        <div className="showdescription">
+          {summary?.replace(/<p>|<b>|<\/p>|<\/b>|<i>|<\/i>/g, "").slice(0, 500)}
+          ....
+        </div>
         <div className="showstats">
           <ul>
             <li>

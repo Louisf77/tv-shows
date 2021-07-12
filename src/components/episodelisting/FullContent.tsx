@@ -14,15 +14,12 @@ export default function FullContentEpisodes({
   const [episodes, setEpisodes] = useState<IEpisode[]>([]);
   const [show, setShow] = useState<number>(selectedShow);
 
-
-  
   useEffect(() => {
-    function showState(show:number):number{
-      if (show !== selectedShow){
-        return show
-      }
-      else {
-        return selectedShow
+    function showState(show: number): number {
+      if (show !== selectedShow) {
+        return show;
+      } else {
+        return selectedShow;
       }
     }
     const getEpisodes = async () => {
@@ -33,7 +30,7 @@ export default function FullContentEpisodes({
       setEpisodes(jsonBody);
     };
     getEpisodes();
-  }, [show,selectedShow]);
+  }, [show, selectedShow]);
 
   return (
     <>
@@ -55,7 +52,6 @@ export default function FullContentEpisodes({
         searchTerm={searchTerm}
         dropTerm={dropTerm}
       />
-     
     </>
   );
 }
