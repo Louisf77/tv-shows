@@ -7,8 +7,8 @@ export default function epSearch({
   let total = 0;
   for (const ep of episodes) {
     if (
-      ep.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
-      ep.summary.toLowerCase().includes(searchTerm.toLowerCase())
+      ep.name?.toLowerCase().includes(searchTerm.toLowerCase()) ||
+      ep.summary?.toLowerCase().includes(searchTerm.toLowerCase())
     ) {
       total += 1;
     }

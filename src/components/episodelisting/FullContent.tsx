@@ -15,16 +15,22 @@ export default function FullContentEpisodes({
   const [show, setShow] = useState<number>(selectedShow);
 
   useEffect(() => {
+    function showState(show: number): number {
+      if (show !== selectedShow) {
+        return show;
+      } else {
+        return selectedShow;
+      }
+    }
     const getEpisodes = async () => {
       const res = await fetch(
-        `https://api.tvmaze.com/shows/${selectedShow}/episodes`
+        `https://api.tvmaze.com/shows/${showState(show)}/episodes`
       );
       const jsonBody = await res.json();
       setEpisodes(jsonBody);
     };
-
     getEpisodes();
-  }, [selectedShow]);
+  }, [show, selectedShow]);
 
   return (
     <>
@@ -46,7 +52,6 @@ export default function FullContentEpisodes({
         searchTerm={searchTerm}
         dropTerm={dropTerm}
       />
-      {console.log(show)}
     </>
   );
 }

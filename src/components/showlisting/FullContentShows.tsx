@@ -10,16 +10,18 @@ export default function FullContentShows(): JSX.Element {
 
   return (
     <>
-      <ShowDropDown
-        shows={shows}
-        showDropTerm={showDropTerm}
-        setShowDropTerm={setShowDropTerm}
-      />
-      <ShowSearchBar
-        shows={shows}
-        showSearchTerm={showSearchTerm}
-        setShowSearchTerm={setShowSearchTerm}
-      />
+      <div className="showssearch">
+        <ShowDropDown
+          shows={shows}
+          showDropTerm={showDropTerm}
+          setShowDropTerm={setShowDropTerm}
+        />
+        <ShowSearchBar
+          shows={shows}
+          showSearchTerm={showSearchTerm}
+          setShowSearchTerm={setShowSearchTerm}
+        />
+      </div>
       <ShowFilter
         shows={shows}
         showSearchTerm={showSearchTerm}

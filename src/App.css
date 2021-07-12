@@ -23,6 +23,9 @@
   padding-left: 30px;
   padding-top: 20px;
 }
+h1 {
+  cursor: pointer;
+}
 .episodesmain {
   display: flex;
   width: 100%;
@@ -38,7 +41,7 @@
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
 }
 img {
-  max-width: 450px;
+  width: 300px;
   border-bottom-left-radius: 15px;
   border-top-left-radius: 15px;
 }
@@ -102,11 +105,56 @@ input {
 .cards {
   display: grid;
   grid-gap: 50px;
-  grid-template-columns: auto, 4;
+  grid-template-columns: repeat(3, 1fr);
+  font-family: "Baloo Tammudu 2";
+  align-content: center;
+  place-content: center;
 }
 
 .showcards {
+  width: 450px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+  padding: 20px;
+  cursor: pointer;
+}
+
+.showcards:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
+}
+.showcards img {
+  margin-left: auto;
+  margin-right: auto;
+  height: 375px;
+  border-radius: 0.1px;
+  display: block;
+}
+.showcontent {
+  display: flex;
+  font-size: 12px;
+  margin: 10px;
+}
+.showheader {
+  font-size: 20px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.showssearch {
+  display: flex;
+}
+.showstats {
+  font-size: 12px;
+  margin-left: 10px;
+}
+.showdescription {
   width: 400px;
+}
+ul {
+  list-style: none;
+}
+.showpic {
+  align-self: center;
 }
 @media screen and (max-device-width: 800px) {
   .cards {
