@@ -3,7 +3,7 @@ import { IEpisode } from "../../utils/Types";
 function EpisodesStructure(props: IEpisode): JSX.Element {
   return (
     <div className="episodesmain">
-      {props.image.original === "null" ? (
+      {props.image?.original === "null" ? (
         <img
           src="https://socialistmodernism.com/wp-content/uploads/2017/07/placeholder-image.png?w=640"
           alt=""

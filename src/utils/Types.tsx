@@ -1,3 +1,5 @@
+
+
 export interface DropdownProps {
   dropTerm: string;
   setDropTerm(dropTerm: string): void;
@@ -51,8 +53,88 @@ export interface ShowListProps {
     original: string;
   };
   summary: string;
-  genre: string;
+  genres: string[];
   status: string;
-  rating: number;
-  runtime: number;
+  runtime: number|null;
+  id: number
+  url: string,
+  type: string
+  language: string
+  averageRuntime: number|null
+  premiered: string|null
+  officialSite: string|null
+  schedule: {
+    time: string
+    days: string[]
+  },
+  rating: {
+    average: number|null
+  },
+  weight: number,
+  network: {
+    id: number,
+    name: string
+    country: {
+      name: string,
+      code: string,
+      timezone: string
+    }|null
+  }|null,
+  webChannel: {
+    id: number,
+    name: string,
+    country: {
+      name: string,
+      code: string,
+      timezone: string
+    }|null
+  }|null,
+  dvdCountry: string|null
+  externals: {
+    tvrage: number,
+    thetvdb: number|null,
+    imdb: string|null
+  },
+
+  updated: number,
+  _links: {
+    self: {
+      href: string
+    },
+    previousepisode?: {
+      href: string|null
+    }
+  }|null
+}
+
+export interface ShowSearchBarProps {
+  shows: ShowListProps[]
+  showSearchTerm:string
+  // setShowSearchTerm(showSearchTerm:string):void
+  setShowSearchTerm:(showSearchTerm:string)=>void
+}
+
+export interface ShowCountProps{
+  shows: ShowListProps[]
+  showSearchTerm:string
+}
+
+export interface ShowFilterProps{
+  shows:ShowListProps[]
+  showSearchTerm:string
+  showDropTerm:string
+}
+
+export interface ShowDropDownProps{
+  shows:ShowListProps[]
+  showDropTerm:string
+  setShowDropTerm(showDropTerm:string):void
+}
+
+export interface FullContentEpisodesProps{
+  selectedShow:number
+}
+
+export interface AppProps{
+  shows:ShowListProps[]
 }

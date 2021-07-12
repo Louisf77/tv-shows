@@ -1,4 +1,4 @@
-import EpisodeFormat from "../../utils/episodeFormat";
+import EpisodeFormat from "../../utils/seasoncodeformat";
 import { DropdownProps } from "../../utils/Types";
 
 export default function Dropdown({

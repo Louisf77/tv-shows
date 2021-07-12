@@ -99,7 +99,17 @@ input {
   font-size: 15px;
   padding: 3px;
 }
+.cards {
+  display:grid;
+  grid-gap: 50px;
+  grid-template-columns: auto,4;
 
+}
+
+.showcards{
+  width: 400px;
+  ;
+}
 @media screen and (max-device-width: 800px) {
   .cards {
     display: grid;

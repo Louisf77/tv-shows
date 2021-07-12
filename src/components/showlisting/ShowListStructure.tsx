@@ -1,29 +1,33 @@
 import { ShowListProps } from "../../utils/Types";
+import { useContext } from "react";
 
+import { showContext } from "../../App";
 export default function ShowListStructure({
   name,
   image,
   summary,
-  genre,
+  genres,
   status,
   rating,
-  runtime,
+  runtime,id
 }: ShowListProps): JSX.Element {
+  const setSelectedShow = useContext(showContext)
+  const handleSetSelectedShow = () => {setSelectedShow(id)}
   return (
-    <div className="showcards">
+    <div className="showcards" onClick={handleSetSelectedShow} >
       <div className="showheader">{name}</div>
-      <img src={image.original} alt="" />
+      <img src={image.medium} alt="" />
       <div className="showcontent">
-        {summary}
+        {summary?.replace(/<p>|<b>|<\/p>|<\/b>/g, "")}
         <div className="showstats">
           <ul>
             <li>
-              <b>Rating:</b>
-              {rating}
+              <b>Rating: </b>
+              {rating.average === null ? `N/A` :rating.average}
             </li>
             <li>
               <b>Genres:</b>
-              {genre}
+              {genres}
             </li>
             <li>
               <b>Status:</b>
