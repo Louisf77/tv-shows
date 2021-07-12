@@ -10,6 +10,7 @@ export default function FullContentShows(): JSX.Element {
 
   return (
     <>
+    <div className="showssearch">
       <ShowDropDown
         shows={shows}
         showDropTerm={showDropTerm}
@@ -20,6 +21,7 @@ export default function FullContentShows(): JSX.Element {
         showSearchTerm={showSearchTerm}
         setShowSearchTerm={setShowSearchTerm}
       />
+      </div>
       <ShowFilter
         shows={shows}
         showSearchTerm={showSearchTerm}

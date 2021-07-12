@@ -21,7 +21,7 @@ export default function ShowListStructure({
       <div className="showheader">{name}</div>
       <img src={image.medium} alt="" />
       <div className="showcontent">
-        {summary?.replace(/<p>|<b>|<\/p>|<\/b>/g, "")}
+        <div className="showdescription">{summary?.replace(/<p>|<b>|<\/p>|<\/b>|<i>|<\/i>/g, "").slice(0,500)}....</div>
         <div className="showstats">
           <ul>
             <li>
@@ -29,8 +29,8 @@ export default function ShowListStructure({
               {rating.average === null ? `N/A` : rating.average}
             </li>
             <li>
-              <b>Genres:</b>
-              {genres}
+              <b>Genres: </b>
+              {genres.join(" | ")}
             </li>
             <li>
               <b>Status:</b>
